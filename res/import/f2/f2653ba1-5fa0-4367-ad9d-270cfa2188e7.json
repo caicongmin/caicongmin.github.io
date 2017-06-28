@@ -1,0 +1,470 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "achievementBg": {
+      "__uuid__": "5edd566e-13a7-4f72-93af-773ca0e89580"
+    },
+    "ad_item": {
+      "__uuid__": "5303be48-c355-4ed0-9206-37443a95f812"
+    },
+    "word_vip": {
+      "__uuid__": "3e7018d2-a050-4fe6-9e03-7f387b766af8"
+    },
+    "scroll_line": {
+      "__uuid__": "84744730-f2ff-4ff0-8954-d438340cf680"
+    },
+    "img_gui": {
+      "__uuid__": "9157fb26-8e2c-4761-992d-8d30ebf04362"
+    },
+    "icon_free": {
+      "__uuid__": "9f96467b-476e-46bd-8cf8-ad0fa83606c1"
+    },
+    "word_ddz": {
+      "__uuid__": "cd54f18e-ffc3-48a0-91b8-53d53845f209"
+    },
+    "goods_item_bg": {
+      "__uuid__": "4b9cdbb7-ccf0-46fb-bd74-11976a07470e"
+    },
+    "update_progress_back": {
+      "__uuid__": "70802d01-4826-4b00-b89a-6f628de44f61"
+    },
+    "word_lzddz": {
+      "__uuid__": "19e4a918-6792-4fed-926c-c10ab713720b"
+    },
+    "fuhao": {
+      "__uuid__": "afdbd9cd-108e-42ef-8fc2-c8e6952585ed"
+    },
+    "game_03": {
+      "__uuid__": "94681c97-2a97-4b5f-a903-ae29ec02b0eb"
+    },
+    "game_title_dzpk": {
+      "__uuid__": "e4af8b72-7921-41f8-a142-02b118361ffe"
+    },
+    "btn_activity_title_03": {
+      "__uuid__": "ef4f5f7b-b2f3-4eba-83d3-4327f24e333d"
+    },
+    "btn_confirm": {
+      "__uuid__": "48c30732-c8c0-472d-ae0e-a4ed62073132"
+    },
+    "scorll_bar": {
+      "__uuid__": "6154be23-fc77-438b-b9b0-bdc49e01ebbf"
+    },
+    "alert-05": {
+      "__uuid__": "e9f41a2b-4df3-4beb-94a8-9a7bb23e382f"
+    },
+    "selecteIndex": {
+      "__uuid__": "13d60a04-e17d-4776-a638-94d5721a445e"
+    },
+    "activity_select": {
+      "__uuid__": "94b93a70-7ed2-4517-9610-4f4482ec8d5e"
+    },
+    "icon_diamond_02": {
+      "__uuid__": "c2a0c657-b3eb-4289-8613-0c81b902a9cc"
+    },
+    "game_title_pdk": {
+      "__uuid__": "4e18ecf2-c3df-4597-9de7-78549d31621f"
+    },
+    "loading2": {
+      "__uuid__": "163c0ae7-ef12-455c-a13b-9985124256d8"
+    },
+    "userInfo_bg": {
+      "__uuid__": "05172dc0-5155-4627-8b5f-6d43e0be614a"
+    },
+    "pop_bg2": {
+      "__uuid__": "aabd8c5d-b95a-444f-a07b-085bf355a5df"
+    },
+    "achievement_item_bg": {
+      "__uuid__": "5a164b6a-8437-41ee-9ffa-4994d1457cc3"
+    },
+    "btn_achievement": {
+      "__uuid__": "728b5999-b1ce-41cf-a4f6-ac160b857f56"
+    },
+    "userInfo_item_bg": {
+      "__uuid__": "8fcf0ce9-37c3-4da4-b338-dc49be7c50ca"
+    },
+    "btn_wechat": {
+      "__uuid__": "184f86a7-cba5-4f0b-9705-d6d0fef0c331"
+    },
+    "activity_title_bg": {
+      "__uuid__": "dfed7e95-354e-4830-95b3-dfefae34e91b"
+    },
+    "title_bg": {
+      "__uuid__": "7567e6c4-000d-4b9d-b22c-7eaf50690a01"
+    },
+    "item_diamond_3": {
+      "__uuid__": "764eb94c-0d08-4f17-abd8-f06a6c2963f3"
+    },
+    "word_join_room": {
+      "__uuid__": "7864c5f9-f634-463a-a05e-9a3e66293539"
+    },
+    "dialog_number_bg": {
+      "__uuid__": "dc590da4-6a8e-480f-b0ab-9efd351f1aab"
+    },
+    "alert-03": {
+      "__uuid__": "3af9550f-19a9-4e7f-a2c6-dc12ec0cf57a"
+    },
+    "btn_activity_title_05": {
+      "__uuid__": "f5291a30-15bc-46b7-97ed-2f255f5ec124"
+    },
+    "btn_result_again": {
+      "__uuid__": "1ca5c6de-9b6b-4497-9956-4298674f3364"
+    },
+    "btn_activity_title_04": {
+      "__uuid__": "2634f4f2-406b-45ff-b556-2ae72c14fdbc"
+    },
+    "avatar_border": {
+      "__uuid__": "2bc692ff-f2cb-4900-95f6-9a072814bb96"
+    },
+    "btn_activity": {
+      "__uuid__": "db4641e1-1bcc-40e3-9820-2953e8a81961"
+    },
+    "btn_title_gold_1": {
+      "__uuid__": "9a4d5338-6642-4deb-b371-cfdcd133446c"
+    },
+    "achievement_play": {
+      "__uuid__": "9b800529-85bc-44e3-a685-d898da01386c"
+    },
+    "icon_diamond": {
+      "__uuid__": "82001f2c-63ce-49d2-961e-74bfdc3e73b1"
+    },
+    "notice_background": {
+      "__uuid__": "6ca1eca1-2be7-4761-aba0-e4336e58b329"
+    },
+    "notice_backgound": {
+      "__uuid__": "735efd85-94b4-4839-afcb-afb099245a6a"
+    },
+    "item_white_bg": {
+      "__uuid__": "69dbbc37-d6ad-4f35-8bcc-fd00354def16"
+    },
+    "pop_top_bg": {
+      "__uuid__": "9b583c59-a435-4f74-b331-42af3f2236ab"
+    },
+    "recharge_title_bg": {
+      "__uuid__": "7bb29dd7-f487-4848-a5c6-6ad3067e6c32"
+    },
+    "word_top_protocol": {
+      "__uuid__": "b5d03df6-c0c6-423d-ad76-25155d072992"
+    },
+    "title_grade": {
+      "__uuid__": "6b48b10c-5201-4920-91aa-caa7d5208b67"
+    },
+    "title_userInfo": {
+      "__uuid__": "71b8706c-514c-466f-ba50-c1d224bf7084"
+    },
+    "border_yellow": {
+      "__uuid__": "b7dfb0a0-8bf6-46d8-99a0-dcce514aa31c"
+    },
+    "word_new_rice_normal": {
+      "__uuid__": "26a608e6-6579-4c35-9f0c-8056ea1ef2a8"
+    },
+    "checkbox2_normal": {
+      "__uuid__": "81f9e8ef-b750-4d48-ab80-15bd3462c948"
+    },
+    "create_room_bg": {
+      "__uuid__": "dfa32744-d60a-452b-851b-167224f099ff"
+    },
+    "create_bg": {
+      "__uuid__": "c4c820c6-4230-4ec7-a55c-e8165c74b547"
+    },
+    "img-10": {
+      "__uuid__": "f9882a9b-a66a-47ca-b3aa-fb93762d2692"
+    },
+    "free_bg": {
+      "__uuid__": "3d72c4b3-0823-44bb-b656-4037e9b64aea"
+    },
+    "img-28": {
+      "__uuid__": "8e88ea5b-dae5-4e08-a8c6-c0feedf80a2b"
+    },
+    "update_progress": {
+      "__uuid__": "647829e8-02ba-4f64-9a74-fb71c4900b72"
+    },
+    "word_protocol": {
+      "__uuid__": "8efa0eac-8387-46b5-8a6e-59ac91ca03a1"
+    },
+    "game_02": {
+      "__uuid__": "2c2d5b36-647b-4246-a990-622d5ba2f6d5"
+    },
+    "btn_setting": {
+      "__uuid__": "fd73a6c4-6967-4580-89ab-ab7058c1b18c"
+    },
+    "word_activity": {
+      "__uuid__": "584eeb2a-d24a-4948-825e-31de4b703e9d"
+    },
+    "btn_bg_yellow_normal": {
+      "__uuid__": "d923fd4a-6da5-4fa0-867b-873ba5b9ab64"
+    },
+    "icon_join": {
+      "__uuid__": "d57cf019-3285-4953-9364-13e8ede90816"
+    },
+    "title_userInfo_bg": {
+      "__uuid__": "a1554dca-58b8-4744-ac05-1367f42567f3"
+    },
+    "nick_word_bg": {
+      "__uuid__": "4d4b779f-993f-45f1-9420-d33dff313c4f"
+    },
+    "btn_share": {
+      "__uuid__": "13ab7ec9-8d54-4797-abcb-1091fc5d3b78"
+    },
+    "word_newroom_normal": {
+      "__uuid__": "72dec4c3-6c07-413f-9778-d4426a52cd9b"
+    },
+    "btn_activity_title_01": {
+      "__uuid__": "7f376308-06fc-4ea9-be68-0b358ea6a6f6"
+    },
+    "icon_vip": {
+      "__uuid__": "2ce84fd3-be15-4a8c-879c-6688eb3674c4"
+    },
+    "btn_activity_title_02": {
+      "__uuid__": "bc2d4e6c-334c-4ee7-a4d9-360d7b2de2e4"
+    },
+    "word_new_rice_sel": {
+      "__uuid__": "2fcde00e-8029-4f32-bca3-2c171d3a1bcc"
+    },
+    "radio_selected": {
+      "__uuid__": "5aebbb5e-31bb-4d14-a10e-8dff66befccb"
+    },
+    "word_create": {
+      "__uuid__": "7ad8e7c7-f3d6-47c3-bfff-2377a5b152d9"
+    },
+    "word_newroom_sel": {
+      "__uuid__": "5e5937a6-8a25-4f4c-8405-47d3a1eef548"
+    },
+    "border_red": {
+      "__uuid__": "d3f19219-9e19-4a6c-b16b-0e698eb6cec4"
+    },
+    "icon_gold_01": {
+      "__uuid__": "22e385f7-6b3f-4106-bce8-819b3ce5c14c"
+    },
+    "game_title_ddz": {
+      "__uuid__": "df133a2c-69d9-4ac3-9a94-4a2607a2a6d1"
+    },
+    "game_title_xlmj": {
+      "__uuid__": "4326b226-1ad6-4d1e-a80b-32e26b8da056"
+    },
+    "radio_normal": {
+      "__uuid__": "cfabc49b-4782-4102-bbb1-9f991af0a0fe"
+    },
+    "checkbox2_selected": {
+      "__uuid__": "f6c4dd1e-a7ca-4e1e-bc25-8dff4a686837"
+    },
+    "diamond_text": {
+      "__uuid__": "71d50aec-194e-47d8-bb49-794a81d4631a"
+    },
+    "word_diamond": {
+      "__uuid__": "a57b99ad-21fe-41b9-a7da-3fba37e14323"
+    },
+    "alert-bg": {
+      "__uuid__": "324a14dc-730d-450b-a740-56af7612cdba"
+    },
+    "alert_bg": {
+      "__uuid__": "6ea4cacb-5521-487c-954f-6b8ab84b4ec0"
+    },
+    "btn_yes": {
+      "__uuid__": "3d608825-6511-4ae4-bf41-9f1512bbcb68"
+    },
+    "join_bg": {
+      "__uuid__": "b3b9c623-d969-4f40-a5da-1ce781613e10"
+    },
+    "word_share": {
+      "__uuid__": "0733cf9d-4b27-42c6-a5b5-b7835a5f3a3d"
+    },
+    "item_bg_01": {
+      "__uuid__": "927dcdbf-0e45-4d97-b8cf-a1f5fb20edef"
+    },
+    "mask": {
+      "__uuid__": "5d67d52e-f2ee-489b-be3b-2e4d6609334e"
+    },
+    "popus_back": {
+      "__uuid__": "22edc926-7292-456a-adf0-29bf97d99f7c"
+    },
+    "game_title_xzmj": {
+      "__uuid__": "f77845ee-ccfb-47bb-b252-9f99b865c04c"
+    },
+    "title_top_1": {
+      "__uuid__": "23531e0a-c5fd-4310-80f3-2f85a516e42d"
+    },
+    "title_top_2": {
+      "__uuid__": "bb5e592e-f7f7-4e05-a4e6-5bc45b6ecf01"
+    },
+    "title_top_3": {
+      "__uuid__": "a1805613-7cac-4712-8534-f5f13d47471a"
+    },
+    "title_top_4": {
+      "__uuid__": "b0a5c21c-2459-4481-b245-d82a7f585d75"
+    },
+    "gold_text": {
+      "__uuid__": "f0e7cb9b-a712-47ae-998a-a5b637609e6e"
+    },
+    "word_gold": {
+      "__uuid__": "a2ea3753-63bd-408b-82b9-77eb85ace8df"
+    },
+    "word_join": {
+      "__uuid__": "50cbbede-751d-42d4-bb78-857b0c2626f4"
+    },
+    "avatar-default": {
+      "__uuid__": "8660978a-d962-4692-bf7e-345fcdfa8c17"
+    },
+    "icon_gold_04": {
+      "__uuid__": "d9263511-c141-4577-9035-28eea97c3cca"
+    },
+    "btn_cancel": {
+      "__uuid__": "4dab89ea-3174-42bc-b510-cdc335ea8145"
+    },
+    "btn_result_share": {
+      "__uuid__": "de2de0fa-0860-45aa-aae1-767d1745060e"
+    },
+    "nick_bg": {
+      "__uuid__": "216134f4-1540-40c8-a0a7-ba5c8cc84321"
+    },
+    "btn_newroom": {
+      "__uuid__": "56dc61b9-7af2-4e8b-b1ce-6379a0ac633a"
+    },
+    "btn_game_checkd": {
+      "__uuid__": "01fae3a6-69f6-4c63-8a25-62b2ec23bdb6"
+    },
+    "btn_game_unchecked": {
+      "__uuid__": "0e2ac615-4f75-4322-aefd-12f51f90b690"
+    },
+    "btn_activity_checked": {
+      "__uuid__": "e5a1691a-5a26-4c1a-9a67-19e2a891af1f"
+    },
+    "btn_activity_unchecked": {
+      "__uuid__": "2379b068-9090-4e8f-96db-cc7ffa66e3cc"
+    },
+    "btn_create_item_normal": {
+      "__uuid__": "4ca6c40d-2322-4d27-9d04-d4e954539e91"
+    },
+    "item_diamond_5": {
+      "__uuid__": "68a2737b-9fe1-455b-9eb3-6838ab84950f"
+    },
+    "btn_back": {
+      "__uuid__": "12e15f61-06c5-4142-b8f6-9c04884ad8d4"
+    },
+    "btn_title_gold_2": {
+      "__uuid__": "bed311cc-d915-44cc-a843-5f2658caf489"
+    },
+    "recharge_checked": {
+      "__uuid__": "386a52dc-eb5d-467e-80b5-afd691a05ed0"
+    },
+    "word_achievement": {
+      "__uuid__": "5e29b71a-3019-4903-9d85-6efca1e23c3d"
+    },
+    "icon_gold_06": {
+      "__uuid__": "7a4d6f33-9b1d-4ddc-974c-603ed3cd2da0"
+    },
+    "btn_create_item_sel": {
+      "__uuid__": "2b752591-7c7d-41e6-96a1-821a2b58f057"
+    },
+    "word_free": {
+      "__uuid__": "6ce66876-04eb-44db-ab22-be55ab6bf496"
+    },
+    "icon_gold_02": {
+      "__uuid__": "f99a6f14-3961-45f9-ba11-6e6f24046be6"
+    },
+    "loading": {
+      "__uuid__": "03c0d8ca-ea42-4e75-ba69-de29907f9a74"
+    },
+    "alert-04": {
+      "__uuid__": "178c05e0-7d55-48b2-b557-b5550795b009"
+    },
+    "btn_close": {
+      "__uuid__": "1f06124e-8112-4c0f-8067-bee0b55d1221"
+    },
+    "icon_create": {
+      "__uuid__": "b3293a60-1045-436d-a2a1-06b6e221b3ad"
+    },
+    "item_bg": {
+      "__uuid__": "a741c62c-9ccd-4e87-8e94-67c4411835f9"
+    },
+    "item_bg_02": {
+      "__uuid__": "3eb066db-5916-4f2e-b578-a3fab1728ba5"
+    },
+    "item_bg_03": {
+      "__uuid__": "8248ccb1-897e-408d-8e03-8000b454ec1b"
+    },
+    "item_bg_04": {
+      "__uuid__": "455e6a39-cc8e-467b-9fcc-df5cf8cbd66f"
+    },
+    "game_04": {
+      "__uuid__": "3dc13712-c80b-4f46-8d58-6ba1520dd618"
+    },
+    "game_01": {
+      "__uuid__": "cdb839d3-6d7d-4c7e-8924-930861a04a30"
+    },
+    "boy_big": {
+      "__uuid__": "60ca6372-315a-4af3-ad46-62d0cfd8c69b"
+    },
+    "girl_big": {
+      "__uuid__": "2667b17c-302d-46db-bad1-222993ec4c45"
+    },
+    "btn_gold_06": {
+      "__uuid__": "ffbf10d5-c2c7-4db7-b4df-18076da77ef7"
+    },
+    "item_diamond_4": {
+      "__uuid__": "711d2546-c55f-4542-a9c2-8b748dcd4afb"
+    },
+    "alert-01": {
+      "__uuid__": "dee0ade6-2abe-4b40-a9a4-690f1fe60c37"
+    },
+    "wechat_friend": {
+      "__uuid__": "73cff7e4-7ba5-4d37-a0da-975034d54cf2"
+    },
+    "btn_red_bg": {
+      "__uuid__": "5095026d-2f62-4560-8845-2e4cc2c344c9"
+    },
+    "buy_bg": {
+      "__uuid__": "211a6cab-9f71-4a70-9a59-60d76e675b71"
+    },
+    "border": {
+      "__uuid__": "0facc4b1-d5cc-4bed-9dde-ecf11c969dcd"
+    },
+    "avatar-border": {
+      "__uuid__": "21429792-b18b-4209-a653-dcde950ec591"
+    },
+    "item_diamond_2": {
+      "__uuid__": "ef28ca1e-6e82-4f9a-8b54-61b4ae4d357e"
+    },
+    "switch_off": {
+      "__uuid__": "9e989496-8d01-476c-8a16-2e2e14729a18"
+    },
+    "switch_on": {
+      "__uuid__": "49e3f0a6-cccc-4d6c-947a-cfef3346aad7"
+    },
+    "wechat_scope": {
+      "__uuid__": "bdc0339c-bd30-4ee0-b9d1-2076fc93111d"
+    },
+    "alert-02": {
+      "__uuid__": "7c31e016-6cc5-49e4-99aa-d5dd25716dc8"
+    },
+    "item_diamond_6": {
+      "__uuid__": "689d7ba1-5e11-4c51-a3bb-e327bf8f1000"
+    },
+    "icon_gold_05": {
+      "__uuid__": "0fe155fe-b3cd-473d-ac80-6a11d2baa9c6"
+    },
+    "icon_gold_03": {
+      "__uuid__": "67258298-eef8-4867-9ecd-71644b70b1c3"
+    },
+    "item_diamond_1": {
+      "__uuid__": "5a430222-a182-4287-b265-26d3d6dee37d"
+    },
+    "loading1": {
+      "__uuid__": "4ffd48bd-9820-4bf6-be97-109669f11200"
+    },
+    "btn_recharge": {
+      "__uuid__": "f8d048d7-fb69-420f-92fd-8b3940a930ec"
+    },
+    "icon_gold_07": {
+      "__uuid__": "37b75113-238b-407a-8ceb-158fa56460f3"
+    },
+    "popus_close": {
+      "__uuid__": "2d350bc0-7546-4715-8903-d74cf6816a59"
+    },
+    "checkbox_normal": {
+      "__uuid__": "5d4642aa-85cd-44ff-9995-1073ee4319cf"
+    },
+    "checkbox_sel": {
+      "__uuid__": "6c647f24-a18c-4c0b-a67e-ed882cc9f67a"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popus_back",
+    "texture": "1aeaa279a",
+    "rect": [
+      296,
+      472,
+      564,
+      390
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      566,
+      392
+    ],
+    "capInsets": [
+      28,
+      26,
+      29,
+      103
+    ]
+  }
+}

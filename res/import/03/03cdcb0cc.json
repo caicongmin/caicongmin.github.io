@@ -1,0 +1,320 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "qqr",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        0,
+        837,
+        340,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        340,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "d3",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        304,
+        452,
+        158,
+        144
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        158,
+        144
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "d2",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        579,
+        452,
+        158,
+        214
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        158,
+        214
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb08",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        0,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "杠",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        152,
+        452,
+        150,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb10",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        504,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "wu3han4ma2jiang41.plist",
+    "_spriteFrames": {
+      "hb08": {
+        "__uuid__": "8961e3a7-cee0-4953-a878-3c4dd4c03c0d"
+      },
+      "hb09": {
+        "__uuid__": "d96a24ac-e916-43e7-b9f0-6eae199d7ee3"
+      },
+      "hb10": {
+        "__uuid__": "a75419bb-7323-4a48-bd1f-7cea67ece4f7"
+      },
+      "上": {
+        "__uuid__": "ca9dc776-15af-406a-b1ce-562b4876967f"
+      },
+      "花": {
+        "__uuid__": "d0c1ceef-a450-4e37-8bc7-d5f50150c792"
+      },
+      "杠": {
+        "__uuid__": "8d08be53-1921-4868-a8d4-8b18f0f5214b"
+      },
+      "d3": {
+        "__uuid__": "63a61cc5-17e5-4193-9642-88a3efeb419a"
+      },
+      "d1": {
+        "__uuid__": "fa85c73e-96bd-43a5-810b-a9b2af2844ba"
+      },
+      "d2": {
+        "__uuid__": "86a45e05-cf23-46ea-a118-2d67735b23b9"
+      },
+      "haidilao": {
+        "__uuid__": "d00cb893-be75-4ab9-8ad5-86c577d8e0ab"
+      },
+      "pph": {
+        "__uuid__": "de764be8-3dc3-451e-adc0-ffb7ecc1d009"
+      },
+      "qqr": {
+        "__uuid__": "286923a2-32c0-462a-8e19-9c5467b0fc0d"
+      },
+      "jys": {
+        "__uuid__": "acc5e734-bcc3-4ec1-9629-0f8f680827ed"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jys",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        342,
+        837,
+        340,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        340,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "上",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        756,
+        0,
+        150,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "haidilao",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        0,
+        685,
+        340,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        340,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "花",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        0,
+        452,
+        150,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        150,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb09",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        252,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pph",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        342,
+        685,
+        340,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        340,
+        150
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "d1",
+      "texture": "31d4d96a-f571-4466-90b8-4cbe1d3168fa",
+      "rect": [
+        464,
+        452,
+        113,
+        231
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        113,
+        231
+      ]
+    }
+  }
+]

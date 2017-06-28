@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_share",
+    "texture": "1aeaa279a",
+    "rect": [
+      980,
+      2,
+      129,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      41
+    ],
+    "rotated": 1
+  }
+}

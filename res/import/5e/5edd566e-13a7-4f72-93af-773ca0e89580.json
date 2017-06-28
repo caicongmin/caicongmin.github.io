@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "achievementBg",
+    "texture": "120a6559e",
+    "rect": [
+      2,
+      2,
+      996,
+      530
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      996,
+      530
+    ]
+  }
+}

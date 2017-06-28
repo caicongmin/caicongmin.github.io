@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_game_unchecked",
+    "texture": "1aeaa279a",
+    "rect": [
+      810,
+      866,
+      155,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      65
+    ]
+  }
+}

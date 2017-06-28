@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_04",
+    "texture": "04337b6b-c636-4e48-a922-1d85cea7fccc",
+    "rect": [
+      0,
+      0,
+      131,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      141
+    ]
+  }
+}

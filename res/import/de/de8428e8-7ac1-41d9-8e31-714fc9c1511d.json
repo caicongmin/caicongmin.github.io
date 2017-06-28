@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_Spring",
+    "texture": "930de86b-e292-46ed-befa-243ee5714752",
+    "rect": [
+      12,
+      39,
+      294,
+      168
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      317,
+      248
+    ]
+  }
+}

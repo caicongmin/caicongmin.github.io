@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_spring3_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"frameY\":-3,\"y\":1,\"frameWidth\":267,\"frameX\":-2,\"frameHeight\":152,\"width\":263,\"height\":146,\"name\":\"ddz_play_spring3\",\"x\":1}],\"width\":512,\"height\":256,\"name\":\"ddz_spring3_animation\",\"imagePath\":\"ddz_spring3_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "ce5c2e45-0602-4b83-a411-786629d8a104"
+  }
+}

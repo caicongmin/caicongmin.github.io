@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_SpringBcg",
+    "texture": "1d5fd8eb-d8cf-47ec-9e9b-3910a0139f17",
+    "rect": [
+      0,
+      0,
+      320,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      200
+    ]
+  }
+}

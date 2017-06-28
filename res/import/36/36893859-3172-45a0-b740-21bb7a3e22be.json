@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quxiao01_Update",
+    "texture": "a31b6b4b-6dc5-49ab-b9af-47749c33c80b",
+    "rect": [
+      80,
+      18,
+      83,
+      40
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      245,
+      78
+    ]
+  }
+}

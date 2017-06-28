@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_cwl_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":222,\"y\":1,\"height\":66,\"name\":\"ddz_play_all\",\"x\":1}],\"width\":256,\"height\":128,\"name\":\"ddz_cwl_animation\",\"imagePath\":\"ddz_cwl_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "75545d93-4765-4664-a96a-74d2692dfde3"
+  }
+}

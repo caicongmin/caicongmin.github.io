@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_replay",
+    "texture": "119854f8-546b-496c-98a1-2753b325e1d3",
+    "rect": [
+      0,
+      0,
+      90,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      54
+    ]
+  }
+}

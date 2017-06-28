@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "border_yellow",
+    "texture": "11278b3c3",
+    "rect": [
+      775,
+      922,
+      99,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      100
+    ]
+  }
+}

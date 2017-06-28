@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_Star3",
+    "texture": "d37aebce-ae55-4a34-9066-f26d53af00fd",
+    "rect": [
+      268,
+      167,
+      230,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      766,
+      478
+    ]
+  }
+}

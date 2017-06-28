@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shenglitiao",
+    "texture": "bf01d10f-b250-4d0c-8b7c-8a45ddbf0f99",
+    "rect": [
+      0,
+      0,
+      666,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      666,
+      115
+    ]
+  }
+}

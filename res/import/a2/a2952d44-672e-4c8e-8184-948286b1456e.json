@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wu3han4ma2jiang40",
+    "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+    "rect": [
+      16,
+      70,
+      935,
+      885
+    ],
+    "offset": [
+      -28.5,
+      -0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

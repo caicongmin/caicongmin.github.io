@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_protocol",
+    "texture": "1783ad087",
+    "rect": [
+      696,
+      688,
+      324,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      324,
+      39
+    ]
+  }
+}

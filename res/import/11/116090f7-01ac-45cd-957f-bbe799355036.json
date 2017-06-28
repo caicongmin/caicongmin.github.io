@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_Star6",
+    "texture": "67992dc5-a8f6-41d2-aec1-9747aff5a4db",
+    "rect": [
+      90,
+      57,
+      586,
+      365
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      766,
+      478
+    ]
+  }
+}

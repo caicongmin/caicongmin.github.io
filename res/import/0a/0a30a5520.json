@@ -1,0 +1,105 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zd_nmsl",
+      "texture": "a7773e55-fdcf-4957-8d35-2b2098fd6dff",
+      "rect": [
+        2,
+        2,
+        436,
+        202
+      ],
+      "offset": [
+        -13,
+        -3
+      ],
+      "originalSize": [
+        512,
+        208
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zd_dzsl",
+      "texture": "a7773e55-fdcf-4957-8d35-2b2098fd6dff",
+      "rect": [
+        2,
+        206,
+        436,
+        202
+      ],
+      "offset": [
+        -13,
+        -3
+      ],
+      "originalSize": [
+        512,
+        208
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zd_nmsb",
+      "texture": "a7773e55-fdcf-4957-8d35-2b2098fd6dff",
+      "rect": [
+        2,
+        410,
+        342,
+        110
+      ],
+      "offset": [
+        -11,
+        8
+      ],
+      "originalSize": [
+        512,
+        208
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "zd_dzsl.plist",
+    "_spriteFrames": {
+      "zd_dzsb": {
+        "__uuid__": "bc9c0d3a-24c7-4e6e-ac88-ed923f22533c"
+      },
+      "zd_dzsl": {
+        "__uuid__": "66dd4963-94eb-4fb7-a449-520e58f3d9cd"
+      },
+      "zd_nmsb": {
+        "__uuid__": "74363252-4545-465c-b072-2927e05816ed"
+      },
+      "zd_nmsl": {
+        "__uuid__": "5bc476df-3f7c-48eb-bcde-dcf75534b0c2"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zd_dzsb",
+      "texture": "a7773e55-fdcf-4957-8d35-2b2098fd6dff",
+      "rect": [
+        346,
+        410,
+        342,
+        108
+      ],
+      "offset": [
+        -11,
+        8
+      ],
+      "originalSize": [
+        512,
+        208
+      ],
+      "rotated": 1
+    }
+  }
+]

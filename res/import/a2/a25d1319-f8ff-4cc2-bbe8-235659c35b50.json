@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fuhuoshuzi",
+    "texture": "2592fbf9-b345-4409-8971-f9464f18042c",
+    "rect": [
+      0,
+      1,
+      170,
+      25
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      170,
+      26
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_activity_title_02",
+    "texture": "1783ad087",
+    "rect": [
+      141,
+      948,
+      100,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      22
+    ]
+  }
+}

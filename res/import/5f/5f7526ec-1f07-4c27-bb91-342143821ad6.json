@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_Star7",
+    "texture": "94109f2b-d9bb-4926-a6b6-dbfbe8806853",
+    "rect": [
+      46,
+      29,
+      674,
+      421
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      766,
+      478
+    ]
+  }
+}

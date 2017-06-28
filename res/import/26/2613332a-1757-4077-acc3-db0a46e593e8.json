@@ -1,0 +1,88 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "clock",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "clock",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_sizeMode": 0
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "cf775bjNPtCAJChgAZfKH9j"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 95,
+      "height": 97
+    },
+    "_scaleX": 0.7,
+    "_scaleY": 0.7,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 49,
+      "y": 184
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "New Label",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 2
+        },
+        "_useOriginalSize": false,
+        "_actualFontSize": 30,
+        "_fontSize": 30,
+        "_N$file": {
+          "__uuid__": "73c394ad-5e87-4ef4-abf9-d9eb43a9a603"
+        },
+        "_isSystemFontUsed": false,
+        "_N$string": "60",
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "46dd5R6UiFMb6B5BuaBZYb5"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 46.19,
+      "height": 43.99
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -8.2
+    }
+  }
+]

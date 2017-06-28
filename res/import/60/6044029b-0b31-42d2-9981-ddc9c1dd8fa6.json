@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shibaitiao",
+    "texture": "bc8cb872-397d-47e8-b506-6bdfc8f34f03",
+    "rect": [
+      0,
+      0,
+      666,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      666,
+      115
+    ]
+  }
+}

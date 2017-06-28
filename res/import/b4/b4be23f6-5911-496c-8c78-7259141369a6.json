@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zd_shengli_shibai_201603",
+    "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+    "rect": [
+      2,
+      2,
+      2043,
+      1269
+    ],
+    "offset": [
+      -0.5,
+      387.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

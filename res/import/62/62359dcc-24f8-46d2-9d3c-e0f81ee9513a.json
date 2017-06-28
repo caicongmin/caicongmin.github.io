@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_SpringFlower",
+    "texture": "7c5f1fa3-6327-490d-959b-3598e23de82a",
+    "rect": [
+      3,
+      3,
+      39,
+      38
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      46,
+      46
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_sz_animation_tex",
+    "texture": "040407c2-c72e-41db-8599-ce8deb0cd7e4",
+    "rect": [
+      1,
+      1,
+      475,
+      218
+    ],
+    "offset": [
+      -17.5,
+      18
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

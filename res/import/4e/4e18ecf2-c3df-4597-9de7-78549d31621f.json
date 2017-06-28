@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_title_pdk",
+    "texture": "120a6559e",
+    "rect": [
+      437,
+      976,
+      61,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      61,
+      22
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_warn",
+    "texture": "9bc9b714-d72a-44b4-b835-a0204678dc29",
+    "rect": [
+      0,
+      0,
+      30,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      30
+    ]
+  }
+}

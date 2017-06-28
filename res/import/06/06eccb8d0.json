@@ -1,0 +1,1539 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00008",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        923,
+        248,
+        442,
+        248
+      ],
+      "offset": [
+        7,
+        -34
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00002",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        1520,
+        122,
+        236
+      ],
+      "offset": [
+        -1,
+        97
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00003",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1450,
+        1678,
+        136,
+        292
+      ],
+      "offset": [
+        -2,
+        71
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00009",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        2,
+        468,
+        244
+      ],
+      "offset": [
+        7,
+        -45
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00004",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1294,
+        1322,
+        342,
+        196
+      ],
+      "offset": [
+        -24,
+        -54
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00009",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        818,
+        1618,
+        318,
+        158
+      ],
+      "offset": [
+        -10,
+        -1
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00009",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        388,
+        1082,
+        312,
+        256
+      ],
+      "offset": [
+        115,
+        183
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00011",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        828,
+        1070,
+        364,
+        226
+      ],
+      "offset": [
+        190,
+        201
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00001",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        460,
+        1808,
+        224,
+        130
+      ],
+      "offset": [
+        35,
+        -20
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00007",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1811,
+        370,
+        228,
+        322
+      ],
+      "offset": [
+        24,
+        119
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00013",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1367,
+        250,
+        442,
+        244
+      ],
+      "offset": [
+        -3,
+        -43
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00012",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        248,
+        446,
+        246
+      ],
+      "offset": [
+        -4,
+        -46
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00013",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        1078,
+        384,
+        316
+      ],
+      "offset": [
+        122,
+        176
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00001",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        920,
+        246,
+        1,
+        1
+      ],
+      "offset": [
+        -639,
+        359
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00014",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        744,
+        412,
+        332
+      ],
+      "offset": [
+        106,
+        161
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00009",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        818,
+        1778,
+        150,
+        268
+      ],
+      "offset": [
+        2,
+        144
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00005",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        274,
+        1630,
+        170,
+        196
+      ],
+      "offset": [
+        -6,
+        105
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00010",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        820,
+        1458,
+        320,
+        158
+      ],
+      "offset": [
+        -11,
+        1
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00001",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        920,
+        246,
+        1,
+        1
+      ],
+      "offset": [
+        -639,
+        359
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00014",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1396,
+        2,
+        444,
+        246
+      ],
+      "offset": [
+        -4,
+        -42
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00006",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1842,
+        2,
+        366,
+        204
+      ],
+      "offset": [
+        -12,
+        -38
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00005",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1318,
+        1678,
+        304,
+        130
+      ],
+      "offset": [
+        -6,
+        -26
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00004",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        592,
+        1808,
+        156,
+        166
+      ],
+      "offset": [
+        -4,
+        90
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_suipian",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        828,
+        938,
+        68,
+        102
+      ],
+      "offset": [
+        9,
+        11
+      ],
+      "originalSize": [
+        250,
+        250
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00007",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1588,
+        1678,
+        182,
+        244
+      ],
+      "offset": [
+        -5,
+        129
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00005",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1638,
+        1512,
+        132,
+        334
+      ],
+      "offset": [
+        0,
+        70
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00011",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        920,
+        246,
+        1,
+        1
+      ],
+      "offset": [
+        -639,
+        359
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00011",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        940,
+        2,
+        454,
+        244
+      ],
+      "offset": [
+        -7,
+        -43
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00003",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1302,
+        984,
+        380,
+        198
+      ],
+      "offset": [
+        -4,
+        -53
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00006",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        274,
+        1808,
+        184,
+        228
+      ],
+      "offset": [
+        -8,
+        121
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00019",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1805,
+        694,
+        420,
+        240
+      ],
+      "offset": [
+        -5,
+        -38
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00006",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1144,
+        1342,
+        314,
+        140
+      ],
+      "offset": [
+        -12,
+        -20
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00011",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        820,
+        1298,
+        322,
+        158
+      ],
+      "offset": [
+        -12,
+        3
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00008",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        516,
+        1550,
+        256,
+        300
+      ],
+      "offset": [
+        58,
+        150
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00005",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        918,
+        866,
+        382,
+        202
+      ],
+      "offset": [
+        -4,
+        -51
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00016",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        920,
+        498,
+        432,
+        366
+      ],
+      "offset": [
+        43,
+        146
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_xiankuang",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1772,
+        1646,
+        136,
+        242
+      ],
+      "offset": [
+        -2,
+        99
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00012",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1684,
+        1116,
+        356,
+        264
+      ],
+      "offset": [
+        161,
+        194
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_boli",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        1646,
+        322,
+        270
+      ],
+      "offset": [
+        -10,
+        45
+      ],
+      "originalSize": [
+        640,
+        360
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00008",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        646,
+        1082,
+        172,
+        262
+      ],
+      "offset": [
+        3,
+        138
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00015",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        448,
+        500,
+        422,
+        342
+      ],
+      "offset": [
+        65,
+        143
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00001",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        1396,
+        122,
+        228
+      ],
+      "offset": [
+        -1,
+        102
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00003",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1194,
+        1070,
+        270,
+        98
+      ],
+      "offset": [
+        9,
+        -40
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00012",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1684,
+        984,
+        108,
+        122
+      ],
+      "offset": [
+        12,
+        170
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00015",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        2,
+        496,
+        444,
+        246
+      ],
+      "offset": [
+        -4,
+        -42
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00006",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1294,
+        1184,
+        136,
+        352
+      ],
+      "offset": [
+        0,
+        78
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "ddz_px2_hj.plist",
+    "_spriteFrames": {
+      "ddz_px2_hj_boli": {
+        "__uuid__": "8c4c7056-1e01-4280-b548-5def3c5a495a"
+      },
+      "ddz_px2_hj_dian_00001": {
+        "__uuid__": "558abe70-060e-49aa-b24c-62c00f44ce52"
+      },
+      "ddz_px2_hj_dian_00002": {
+        "__uuid__": "c8802e19-a22d-447c-b925-1fd50ae0880c"
+      },
+      "ddz_px2_hj_dian_00003": {
+        "__uuid__": "f6e06efa-5534-4392-90a9-8a6672d79775"
+      },
+      "ddz_px2_hj_dian_00004": {
+        "__uuid__": "5a7b79b8-3d73-484b-8f11-2f670e27ef3c"
+      },
+      "ddz_px2_hj_dian_00005": {
+        "__uuid__": "4e7f06d9-f4a9-46a3-83a6-4951c68969af"
+      },
+      "ddz_px2_hj_dian_00006": {
+        "__uuid__": "697bae56-a53f-4ed0-a13d-1c54a6870343"
+      },
+      "ddz_px2_hj_dian_00007": {
+        "__uuid__": "5db077ff-2ae7-4d24-b083-d34fa7766a99"
+      },
+      "ddz_px2_hj_dian_00008": {
+        "__uuid__": "8f982c38-45cb-443d-9d6d-745b53fccf6a"
+      },
+      "ddz_px2_hj_dian_00009": {
+        "__uuid__": "4de66364-d9c3-4580-9cbe-64d9c4b93711"
+      },
+      "ddz_px2_hj_dian_00010": {
+        "__uuid__": "ed387b7b-ec53-4429-ba4c-dd8bd23365b4"
+      },
+      "ddz_px2_hj_dian_00011": {
+        "__uuid__": "669b0bce-a22e-4312-85fa-307b4ea10ea2"
+      },
+      "ddz_px2_hj_dian_00012": {
+        "__uuid__": "ab9e8220-6894-4299-8bee-b0af3d1eed7d"
+      },
+      "ddz_px2_hj_dian_00013": {
+        "__uuid__": "e402a4b4-2316-4c0b-84e1-34a19c4ea7fd"
+      },
+      "ddz_px2_hj_dian_00014": {
+        "__uuid__": "e84418f2-09b6-418d-bcfa-171dd762ffc3"
+      },
+      "ddz_px2_hj_fazhen_00001": {
+        "__uuid__": "2b5c30f1-f047-417f-88f7-b1ba477f7788"
+      },
+      "ddz_px2_hj_fazhen_00002": {
+        "__uuid__": "e03bb991-feda-4554-b323-f58346c878bb"
+      },
+      "ddz_px2_hj_fazhen_00003": {
+        "__uuid__": "68ef3517-6bba-4f2d-9857-3e85243fab67"
+      },
+      "ddz_px2_hj_fazhen_00004": {
+        "__uuid__": "0d6f58ed-1f27-4642-8a89-2152eb625979"
+      },
+      "ddz_px2_hj_fazhen_00005": {
+        "__uuid__": "81d93d2b-8e21-4501-a06a-4322d94d22ac"
+      },
+      "ddz_px2_hj_fazhen_00006": {
+        "__uuid__": "56757215-837e-4763-8eb7-462e95a67d82"
+      },
+      "ddz_px2_hj_fazhen_00007": {
+        "__uuid__": "fe8ce451-306d-4596-8063-b40c9be7a99e"
+      },
+      "ddz_px2_hj_fazhen_00008": {
+        "__uuid__": "04cfa314-7951-417e-a49f-109c249a7e39"
+      },
+      "ddz_px2_hj_fazhen_00009": {
+        "__uuid__": "0c452c60-90dc-4a00-8d9d-0066b87e40d6"
+      },
+      "ddz_px2_hj_fazhen_00010": {
+        "__uuid__": "bc6fa784-5a88-4be6-910a-5956af6f896e"
+      },
+      "ddz_px2_hj_fazhen_00011": {
+        "__uuid__": "67760473-f038-49c9-8c94-dae6e1868d19"
+      },
+      "ddz_px2_hj_fazhen_00012": {
+        "__uuid__": "3ae0e6e5-a398-4e84-bdc3-1e40eaffec20"
+      },
+      "ddz_px2_hj_fazhen_00013": {
+        "__uuid__": "320370ca-173d-45b3-a4eb-cfd3dde79198"
+      },
+      "ddz_px2_hj_fazhen_00014": {
+        "__uuid__": "55e4411e-2736-4a0d-95b7-bc071d99cabc"
+      },
+      "ddz_px2_hj_fazhen_00015": {
+        "__uuid__": "b034a80d-c149-4746-9bdc-00447662d9e8"
+      },
+      "ddz_px2_hj_fazhen_00016": {
+        "__uuid__": "ceee5d50-3c24-436b-bb13-28b8745d2040"
+      },
+      "ddz_px2_hj_fazhen_00017": {
+        "__uuid__": "dccd452a-fade-407b-8701-5eb41ae7b969"
+      },
+      "ddz_px2_hj_fazhen_00018": {
+        "__uuid__": "f322cdb6-4336-41df-8251-f7fbabdd2c25"
+      },
+      "ddz_px2_hj_fazhen_00019": {
+        "__uuid__": "6c8fdef6-81e8-410b-815e-675fbc12dc2c"
+      },
+      "ddz_px2_hj_huojian_00001": {
+        "__uuid__": "9d826e11-542e-4636-a89f-2c35417837ee"
+      },
+      "ddz_px2_hj_huojian_00002": {
+        "__uuid__": "06473713-d276-4840-ada3-833fa83df696"
+      },
+      "ddz_px2_hj_huojian_00003": {
+        "__uuid__": "0c37f4be-7bdd-44b6-aacb-731187ba8d40"
+      },
+      "ddz_px2_hj_huojian_00004": {
+        "__uuid__": "ef23c390-ab0e-4ba1-82bc-5c739e4a2ca5"
+      },
+      "ddz_px2_hj_huojian_00005": {
+        "__uuid__": "5f686f09-c4d8-4e94-b501-85ff092a31f2"
+      },
+      "ddz_px2_hj_huojian_00006": {
+        "__uuid__": "b2d428b2-a152-4661-a7cb-4965536bbcc8"
+      },
+      "ddz_px2_hj_huojian_00007": {
+        "__uuid__": "2f27aed5-18c7-45b4-b428-54c33b7df24c"
+      },
+      "ddz_px2_hj_huojian_00008": {
+        "__uuid__": "7a5fea93-5615-41db-a673-4644e6bc045c"
+      },
+      "ddz_px2_hj_huojian_00009": {
+        "__uuid__": "15271c36-52cc-4b67-8f7d-c506c300d5e2"
+      },
+      "ddz_px2_hj_huojian_00010": {
+        "__uuid__": "db08be98-3d3e-4933-bfe7-753cd72b0c75"
+      },
+      "ddz_px2_hj_huojian_00011": {
+        "__uuid__": "21c01a8d-5e1f-4e82-bb77-fe28c78024b1"
+      },
+      "ddz_px2_hj_huojian_00012": {
+        "__uuid__": "881fb5d0-b5f4-477f-8cee-0c6cfdb1a302"
+      },
+      "ddz_px2_hj_huojian_00013": {
+        "__uuid__": "465892fc-5bfc-4d96-bbba-e36058eb25ea"
+      },
+      "ddz_px2_hj_huojian_00014": {
+        "__uuid__": "4b5aff77-21ff-4ce0-85fd-d8e5ac98e03e"
+      },
+      "ddz_px2_hj_huojian_00015": {
+        "__uuid__": "940a31bf-d220-4898-a33e-d39376ce0a89"
+      },
+      "ddz_px2_hj_huojian_00016": {
+        "__uuid__": "83efd9c5-2c4d-4e2c-b640-407780f421bb"
+      },
+      "ddz_px2_hj_suipian": {
+        "__uuid__": "5d58f5b7-290b-4dd3-af1b-5751cdf6f86d"
+      },
+      "ddz_px2_hj_xiankuang": {
+        "__uuid__": "86ba175c-7d9f-43ff-8746-0e8cde1ff4a2"
+      },
+      "ddz_px2_hj_yan_00001": {
+        "__uuid__": "47a6e71a-1ba0-43fb-b07d-18ee7fed4659"
+      },
+      "ddz_px2_hj_yan_00002": {
+        "__uuid__": "cca5e567-8fbb-4a91-a183-893a93401eb8"
+      },
+      "ddz_px2_hj_yan_00003": {
+        "__uuid__": "a495ffb6-fcc3-4bf9-b0e2-51c3edefcfb6"
+      },
+      "ddz_px2_hj_yan_00004": {
+        "__uuid__": "b75761bc-aa44-4ede-b0ce-9889fcd64cbf"
+      },
+      "ddz_px2_hj_yan_00005": {
+        "__uuid__": "5936800e-ddbf-405c-97d1-0f7588c6c1c8"
+      },
+      "ddz_px2_hj_yan_00006": {
+        "__uuid__": "6e3bf65e-0241-4f6e-82ca-7b8ec6129ce4"
+      },
+      "ddz_px2_hj_yan_00007": {
+        "__uuid__": "b6cae399-e326-453f-b6a3-756668f776d7"
+      },
+      "ddz_px2_hj_yan_00008": {
+        "__uuid__": "f1b73bae-e4fd-4749-b157-c1e4f7d1f320"
+      },
+      "ddz_px2_hj_yan_00009": {
+        "__uuid__": "0d810eb9-ec30-4844-8a16-5eafae06b0ab"
+      },
+      "ddz_px2_hj_yan_00010": {
+        "__uuid__": "4f6bde3e-5642-4e0d-b27c-778c1747800d"
+      },
+      "ddz_px2_hj_yan_00011": {
+        "__uuid__": "766bd6e0-e796-4e96-a77d-8830c22a423c"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00007",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        516,
+        1396,
+        302,
+        152
+      ],
+      "offset": [
+        -12,
+        -10
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00004",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        240,
+        1520,
+        274,
+        108
+      ],
+      "offset": [
+        5,
+        -34
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00010",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        472,
+        2,
+        466,
+        242
+      ],
+      "offset": [
+        5,
+        -48
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00002",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        828,
+        844,
+        88,
+        92
+      ],
+      "offset": [
+        -6,
+        53
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00002",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        450,
+        248,
+        98,
+        20
+      ],
+      "offset": [
+        3,
+        -70
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00016",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        472,
+        246,
+        446,
+        252
+      ],
+      "offset": [
+        -3,
+        -40
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00010",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        970,
+        1778,
+        260,
+        210
+      ],
+      "offset": [
+        134,
+        188
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00017",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1354,
+        744,
+        432,
+        238
+      ],
+      "offset": [
+        -4,
+        -39
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00002",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1638,
+        1382,
+        342,
+        128
+      ],
+      "offset": [
+        16,
+        -20
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00013",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        828,
+        844,
+        88,
+        92
+      ],
+      "offset": [
+        -6,
+        53
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00014",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        920,
+        246,
+        1,
+        1
+      ],
+      "offset": [
+        -639,
+        359
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00010",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        232,
+        1396,
+        122,
+        192
+      ],
+      "offset": [
+        2,
+        123
+      ],
+      "originalSize": [
+        1280,
+        720
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_huojian_00004",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1182,
+        1678,
+        134,
+        308
+      ],
+      "offset": [
+        0,
+        69
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_yan_00008",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1286,
+        1520,
+        318,
+        156
+      ],
+      "offset": [
+        -11,
+        -4
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00018",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1367,
+        496,
+        436,
+        246
+      ],
+      "offset": [
+        -7,
+        -42
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_dian_00003",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        1772,
+        1784,
+        132,
+        134
+      ],
+      "offset": [
+        -4,
+        74
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_hj_fazhen_00007",
+      "texture": "3527d64c-18a1-4f49-9610-8e862c2aaf4d",
+      "rect": [
+        416,
+        844,
+        410,
+        236
+      ],
+      "offset": [
+        -8,
+        -36
+      ],
+      "originalSize": [
+        1280,
+        720
+      ]
+    }
+  }
+]

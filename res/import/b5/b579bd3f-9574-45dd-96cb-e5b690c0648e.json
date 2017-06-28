@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_SpringShining2",
+    "texture": "92223d20-8a9c-49e0-bdd0-7d9c23c25dc0",
+    "rect": [
+      7,
+      51,
+      154,
+      118
+    ],
+    "offset": [
+      0.5,
+      -24
+    ],
+    "originalSize": [
+      167,
+      172
+    ]
+  }
+}

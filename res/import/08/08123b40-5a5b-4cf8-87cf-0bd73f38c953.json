@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shibai",
+    "texture": "a354ed5b-24a8-4b32-8aeb-c4d018107bb7",
+    "rect": [
+      0,
+      0,
+      170,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      89
+    ]
+  }
+}

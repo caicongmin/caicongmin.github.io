@@ -1,0 +1,214 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "acitivityItem",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": false
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "acitivityItem",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 5
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Toggle",
+          "node": {
+            "__id__": 1
+          },
+          "transition": 3,
+          "_N$target": {
+            "__id__": 2
+          },
+          "checkMark": {
+            "__id__": 4
+          },
+          "checkEvents": [
+            null
+          ]
+        },
+        {
+          "__type__": "acddfJ9TPBHdpa8R9ik4pvs",
+          "node": {
+            "__id__": 1
+          },
+          "title": {
+            "__id__": 6
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "6f994ZJ6y5P56crKwFz8cbY"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 258,
+        "height": 109
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 177.5
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Background",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "169c1080-cbec-4ff8-8c76-d2cfe6c70395"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "d138cTQqDRB4ZbZjp4v5aAz"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 258,
+        "height": 109
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "checkmark",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 4
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "18e9frRdI1N4quecmc37SG8"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 258,
+        "height": 109
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 3
+      },
+      "_spriteFrame": {
+        "__uuid__": "351f7cc0-7330-496a-ad6b-cc4134be49fa"
+      },
+      "_sizeMode": 2,
+      "_isTrimmedMode": false
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "title",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__id__": 6
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "52b5e3hGNdBsqScszI6bYxt"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 140,
+        "height": 40
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 5
+      },
+      "_useOriginalSize": false,
+      "_actualFontSize": 22,
+      "_fontSize": 24,
+      "_N$string": "12月火枪名单",
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1,
+      "_N$overflow": 2
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_normal",
+      "texture": "8b5ac142-e8d1-4865-8337-4f516f3d6ea4",
+      "rect": [
+        0,
+        0,
+        258,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        258,
+        109
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_selected",
+      "texture": "bc99c55a-30af-4925-9ddd-90654b592508",
+      "rect": [
+        0,
+        0,
+        258,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        258,
+        109
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_box_bg",
+    "texture": "7ccc7bdd-89ab-405d-8d04-55cb3ef0d23c",
+    "rect": [
+      0,
+      0,
+      572,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      572,
+      48
+    ]
+  }
+}

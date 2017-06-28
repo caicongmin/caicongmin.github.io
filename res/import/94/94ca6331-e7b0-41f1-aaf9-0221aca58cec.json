@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_Star8",
+    "texture": "14ff7bda-7982-44f1-8815-2e80f75d6d9d",
+    "rect": [
+      22,
+      14,
+      722,
+      450
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      766,
+      478
+    ]
+  }
+}

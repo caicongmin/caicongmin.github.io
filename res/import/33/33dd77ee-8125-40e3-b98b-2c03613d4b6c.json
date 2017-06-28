@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_jiesuan_shibai_tex",
+    "texture": "fa6922fd-7380-4cde-b55d-795ecc902fcc",
+    "rect": [
+      1,
+      1,
+      995,
+      595
+    ],
+    "offset": [
+      -13.5,
+      213.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

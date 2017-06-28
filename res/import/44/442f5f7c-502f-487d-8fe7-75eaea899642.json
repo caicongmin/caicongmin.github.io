@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_plan_animation_tex",
+    "texture": "dbbb43c2-b2b6-4670-a0a1-50908c60ae12",
+    "rect": [
+      1,
+      1,
+      604,
+      380
+    ],
+    "offset": [
+      -209,
+      65
+    ],
+    "originalSize": [
+      1024,
+      512
+    ]
+  }
+}

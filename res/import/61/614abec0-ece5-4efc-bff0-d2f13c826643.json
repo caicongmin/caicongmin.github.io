@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_jiesuan_shibai_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":646,\"y\":1,\"height\":357,\"name\":\"ddz_shibaijiesuanban\",\"x\":1},{\"width\":235,\"y\":520,\"height\":76,\"name\":\"ddz_shibaiyun\",\"x\":1},{\"width\":347,\"y\":1,\"height\":129,\"name\":\"ddz_shibaiguang\",\"x\":649},{\"width\":786,\"y\":360,\"height\":158,\"name\":\"ddz_shibai\",\"x\":1},{\"width\":266,\"y\":520,\"height\":40,\"name\":\"ddz_shibaiyu\",\"x\":238},{\"width\":190,\"y\":248,\"height\":109,\"name\":\"ddz_shibaizi\",\"x\":649},{\"width\":193,\"y\":132,\"height\":114,\"name\":\"ddz_shibaizi_lie\",\"x\":649}],\"width\":1024,\"height\":1024,\"name\":\"ddz_jiesuan_shibai\",\"imagePath\":\"ddz_jiesuan_shibai_tex.png\"}",
+  "texture": {
+    "__uuid__": "fa6922fd-7380-4cde-b55d-795ecc902fcc"
+  }
+}

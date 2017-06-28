@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fenshu_back",
+    "texture": "60178098-17a9-4ceb-ab40-b86fac2030f7",
+    "rect": [
+      0,
+      0,
+      340,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      48
+    ]
+  }
+}

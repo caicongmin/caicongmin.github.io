@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_mp_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":896,\"y\":1,\"height\":76,\"name\":\"ddz_mp_di\",\"x\":1},{\"width\":144,\"y\":243,\"height\":143,\"name\":\"ddz_mp_g3\",\"x\":761},{\"width\":212,\"y\":79,\"height\":219,\"name\":\"ddz_mp_g2\",\"x\":547},{\"width\":164,\"y\":79,\"height\":162,\"name\":\"ddz_mp_g\",\"x\":761},{\"frameY\":-2,\"y\":1,\"frameWidth\":120,\"frameX\":-2,\"frameHeight\":59,\"width\":116,\"height\":55,\"name\":\"ddz_mp_zi\",\"x\":899},{\"width\":544,\"y\":79,\"height\":96,\"name\":\"ddz_mp_x\",\"x\":1}],\"width\":1024,\"height\":512,\"name\":\"ddz_mp_animation\",\"imagePath\":\"ddz_mp_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "f2c4feb4-1c45-4eb3-a7e4-b71640e08513"
+  }
+}

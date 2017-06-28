@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_yxgg_selected",
+    "texture": "dd489fdc-a4a3-42a7-aefd-3824272a09d6",
+    "rect": [
+      0,
+      2,
+      153,
+      47
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      155,
+      50
+    ]
+  }
+}

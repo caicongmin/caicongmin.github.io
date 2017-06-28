@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_achievement",
+    "texture": "1aeaa279a",
+    "rect": [
+      976,
+      378,
+      133,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      44
+    ],
+    "rotated": 1
+  }
+}

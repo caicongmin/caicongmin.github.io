@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_activity_title_04",
+    "texture": "17f4b47fb",
+    "rect": [
+      806,
+      824,
+      119,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      119,
+      22
+    ],
+    "rotated": 1
+  }
+}

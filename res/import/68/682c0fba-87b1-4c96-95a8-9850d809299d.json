@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_dztb_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":238,\"y\":1,\"height\":238,\"name\":\"ddz_dztb_g5\",\"x\":270},{\"frameY\":0,\"y\":1,\"frameWidth\":268,\"frameX\":-1,\"frameHeight\":248,\"width\":267,\"height\":248,\"name\":\"ddz_dztb_g\",\"x\":1},{\"width\":137,\"y\":241,\"height\":131,\"name\":\"ddz_dztb_g2\",\"x\":270},{\"width\":110,\"y\":251,\"height\":110,\"name\":\"ddz_dztb_g3\",\"x\":1},{\"width\":93,\"y\":363,\"height\":69,\"name\":\"ddz_dztb_tu\",\"x\":1},{\"width\":89,\"y\":335,\"height\":93,\"name\":\"ddz_dztb_tu2\",\"x\":409},{\"width\":92,\"y\":241,\"height\":92,\"name\":\"ddz_dztb_g4\",\"x\":409},{\"width\":33,\"y\":363,\"height\":33,\"name\":\"ddz_dztb_g6\",\"x\":96}],\"width\":512,\"height\":512,\"name\":\"ddz_dztb_animation\",\"imagePath\":\"ddz_dztb_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "499f7fa0-1603-4e19-9706-e53c9b54fc5e"
+  }
+}

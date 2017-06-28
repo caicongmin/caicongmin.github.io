@@ -1,0 +1,248 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb00",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        0,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "d5",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        80,
+        904,
+        78,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb06",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        504,
+        452,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "d4",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        0,
+        904,
+        78,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        78,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb07",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        756,
+        452,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "wu3han4ma2jiang40.plist",
+    "_spriteFrames": {
+      "hb00": {
+        "__uuid__": "040e44a1-f16e-474f-86a6-b7b1bacbc356"
+      },
+      "hb01": {
+        "__uuid__": "f73b59f4-7fb9-4d83-aa7c-056992c53815"
+      },
+      "hb02": {
+        "__uuid__": "6185e430-5f4a-494f-a2cd-67f4364b65d6"
+      },
+      "hb03": {
+        "__uuid__": "bec5710e-ac8e-4c08-a46b-b14ac3a2d9fa"
+      },
+      "hb04": {
+        "__uuid__": "755aaafb-e95c-414c-959c-4dcc05b8245c"
+      },
+      "hb05": {
+        "__uuid__": "95d3f512-8b6b-4b21-9873-9f27029ef061"
+      },
+      "hb06": {
+        "__uuid__": "187a320d-1b47-4f1b-b09f-6c613a802f1d"
+      },
+      "hb07": {
+        "__uuid__": "48ea2145-488c-4862-9945-b237454eec99"
+      },
+      "d4": {
+        "__uuid__": "3fca548f-89a8-41e2-84ee-cb6928774248"
+      },
+      "d5": {
+        "__uuid__": "1096b9e9-9ed5-44ca-ba99-3d1a90a32585"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb02",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        504,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb04",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        0,
+        452,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb05",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        252,
+        452,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb03",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        756,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "hb01",
+      "texture": "dbcb54c6-b564-462f-8b25-543f2d414537",
+      "rect": [
+        252,
+        0,
+        250,
+        450
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        250,
+        450
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_gold_number",
+      "texture": "71cfab22-a509-4ba9-947a-71592ae01590",
+      "rect": [
+        0,
+        0,
+        150,
+        21
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        150,
+        21
+      ]
+    }
+  },
+  {
+    "__type__": "cc.LabelAtlas",
+    "_name": "game_gold_number",
+    "fntDataStr": "info face=\"Arial\" size=18.48 bold=0 italic=0 charset=\"\" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spaceing=0,0\ncommon lineHeight=21 base=18.48 scaleW=150 scaleH=21 pages=1 packed=0\npage id=0 file=\"game_gold_number\"\nchars count=0\nchar id=48     x=0   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"0\"\nchar id=49     x=15   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"1\"\nchar id=50     x=30   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"2\"\nchar id=51     x=45   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"3\"\nchar id=52     x=60   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"4\"\nchar id=53     x=75   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"5\"\nchar id=54     x=90   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"6\"\nchar id=55     x=105   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"7\"\nchar id=56     x=120   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"8\"\nchar id=57     x=135   y=0   width=15     height=21     xoffset=0     yoffset=0    xadvance=15    page=0 chnl=0 letter=\"9\"\n",
+    "spriteFrame": {
+      "__uuid__": "1222ad0e-0873-4db8-bc9b-7f8537497670"
+    },
+    "fontSize": 18.48
+  }
+]

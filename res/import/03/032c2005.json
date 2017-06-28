@@ -1,0 +1,32 @@
+[
+  {
+    "__type__": "cc.LabelAtlas",
+    "_name": "fuhuoshuzi2",
+    "fntDataStr": "info face=\"Arial\" size=22.88 bold=0 italic=0 charset=\"\" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spaceing=0,0\ncommon lineHeight=26 base=22.88 scaleW=170 scaleH=26 pages=1 packed=0\npage id=0 file=\"fuhuoshuzi2\"\nchars count=0\nchar id=48     x=0   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"0\"\nchar id=49     x=17   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"1\"\nchar id=50     x=34   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"2\"\nchar id=51     x=51   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"3\"\nchar id=52     x=68   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"4\"\nchar id=53     x=85   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"5\"\nchar id=54     x=102   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"6\"\nchar id=55     x=119   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"7\"\nchar id=56     x=136   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"8\"\nchar id=57     x=153   y=0   width=17     height=26     xoffset=0     yoffset=0    xadvance=17    page=0 chnl=0 letter=\"9\"\n",
+    "spriteFrame": {
+      "__uuid__": "c9ecf569-880b-4a06-bfde-81b1c6d1a330"
+    },
+    "fontSize": 22.88
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fuhuoshuzi2",
+      "texture": "86b37c0b-cc4e-4377-b566-90de7fe61b2a",
+      "rect": [
+        0,
+        1,
+        170,
+        25
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        170,
+        26
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_ppwj_animation_tex",
+    "texture": "acc9dc20-8ace-4895-8c58-d0ee06cb0fe2",
+    "rect": [
+      1,
+      1,
+      125,
+      109
+    ],
+    "offset": [
+      -0.5,
+      8.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

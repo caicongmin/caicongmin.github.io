@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_jchd_selected",
+    "texture": "4b091c68-a0cf-4ce8-9834-af2f0b611726",
+    "rect": [
+      0,
+      2,
+      153,
+      47
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      154,
+      50
+    ]
+  }
+}

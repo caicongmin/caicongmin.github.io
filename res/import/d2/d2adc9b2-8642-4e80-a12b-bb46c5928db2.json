@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clearing_nums",
+    "texture": "9ae0b941-c219-475d-90b2-d670d0d7ed33",
+    "rect": [
+      0,
+      0,
+      239,
+      32
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      240,
+      32
+    ]
+  }
+}

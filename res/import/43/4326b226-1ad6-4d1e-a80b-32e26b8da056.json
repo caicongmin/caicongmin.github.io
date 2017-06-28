@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_title_xlmj",
+    "texture": "1783ad087",
+    "rect": [
+      985,
+      927,
+      81,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      22
+    ],
+    "rotated": 1
+  }
+}

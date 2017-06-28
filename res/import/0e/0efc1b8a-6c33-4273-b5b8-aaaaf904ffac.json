@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_ddjb_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":278,\"y\":1,\"height\":36,\"name\":\"ddz_ddjb\",\"x\":1},{\"width\":11,\"y\":39,\"height\":10,\"name\":\"ddz_ddjb_dian\",\"x\":1}],\"width\":512,\"height\":64,\"name\":\"ddz_ddjb_animation\",\"imagePath\":\"ddz_ddjb_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "0c0d22b9-7676-4b82-a519-5b8bac057880"
+  }
+}

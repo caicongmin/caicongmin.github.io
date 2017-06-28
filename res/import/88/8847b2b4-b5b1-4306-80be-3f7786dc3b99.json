@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MyOutNew",
+    "texture": "81c967d6-0b5a-4578-8209-c91263139913",
+    "rect": [
+      2,
+      2,
+      921,
+      250
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      925,
+      254
+    ]
+  }
+}

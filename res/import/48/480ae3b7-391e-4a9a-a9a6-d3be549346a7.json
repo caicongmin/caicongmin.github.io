@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_top_line",
+    "texture": "ae5259e3-26c8-49dc-9e5d-5f07422650ff",
+    "rect": [
+      0,
+      0,
+      52,
+      3
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      3
+    ]
+  }
+}

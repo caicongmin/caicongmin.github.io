@@ -1,0 +1,1573 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00004",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1007,
+        2,
+        429,
+        143
+      ],
+      "offset": [
+        23,
+        101
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli2016",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        505,
+        2,
+        313,
+        500
+      ],
+      "offset": [
+        16,
+        0
+      ],
+      "originalSize": [
+        345,
+        500
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00000",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1706,
+        734,
+        210,
+        126
+      ],
+      "offset": [
+        -4,
+        -27
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00002",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1000,
+        531,
+        330,
+        166
+      ],
+      "offset": [
+        1,
+        -38
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00010",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        952,
+        1067,
+        200,
+        196
+      ],
+      "offset": [
+        11,
+        19
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_glow",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1438,
+        103,
+        402,
+        300
+      ],
+      "offset": [
+        8,
+        0
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00008",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        995,
+        875,
+        228,
+        190
+      ],
+      "offset": [
+        -7,
+        1
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00002",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        435,
+        632,
+        103,
+        21
+      ],
+      "offset": [
+        190,
+        27
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00017",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        458,
+        315,
+        323,
+        33
+      ],
+      "offset": [
+        78,
+        29
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00001",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1410,
+        380,
+        149,
+        25
+      ],
+      "offset": [
+        166,
+        26
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00008",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1332,
+        722,
+        168,
+        84
+      ],
+      "offset": [
+        -1,
+        -24
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "zd_shengli_shibai_201603.plist",
+    "_spriteFrames": {
+      "shengli2016": {
+        "__uuid__": "042974f2-286a-4274-a34e-9d07be0a3995"
+      },
+      "shengli_glow": {
+        "__uuid__": "0ca8e545-0705-4e59-b5ed-83ecbb31c640"
+      },
+      "shengli_sidai": {
+        "__uuid__": "3b1d9ab0-3aa6-48d1-8461-4bc7870d4839"
+      },
+      "shengli_x_00001": {
+        "__uuid__": "675171ce-2eba-4ea1-aa7f-f50486cd63a8"
+      },
+      "shengli_x_00002": {
+        "__uuid__": "3efe8f10-9a60-4d86-b3f9-f25cd6bd3171"
+      },
+      "shengli_x_00003": {
+        "__uuid__": "82becd5d-939c-4c8e-8a4b-031bfebf242c"
+      },
+      "shengli_x_00004": {
+        "__uuid__": "87881e06-837a-481f-ae51-49f4e76b7a40"
+      },
+      "shengli_x_00005": {
+        "__uuid__": "4c9fbdcf-855d-4339-8e01-22a58ba9bf99"
+      },
+      "shengli_x_00006": {
+        "__uuid__": "ec915a20-6d38-4253-a896-b5e81316fe24"
+      },
+      "shengli_x_00007": {
+        "__uuid__": "ffdd0a68-ddb3-4c83-a3ab-252b6af516bd"
+      },
+      "shengli_x_00008": {
+        "__uuid__": "0d9c8d60-033d-4fa1-a88f-576d818b7a3c"
+      },
+      "shengli_x_00009": {
+        "__uuid__": "d1adb1f5-c8f8-40e4-a2e2-bab0916106bd"
+      },
+      "shengli_x_00010": {
+        "__uuid__": "0ad20f65-d8d0-4358-895d-4e88c7d7bd31"
+      },
+      "shengli_x_00011": {
+        "__uuid__": "7c800747-dcc1-4e81-9f32-4094534d1764"
+      },
+      "shengli_x_00012": {
+        "__uuid__": "f1e7b938-d85f-48f5-bfa2-329f1a499840"
+      },
+      "shengli_x_00013": {
+        "__uuid__": "6e6091d3-5cd2-4a6c-add7-4c5fc11b63c8"
+      },
+      "shengli_zi": {
+        "__uuid__": "58aa715c-ed21-4400-8b48-d72ceeff349f"
+      },
+      "shibai2016": {
+        "__uuid__": "7c2c4e99-d32a-45ca-ae04-122b7b81b3da"
+      },
+      "shibai_1": {
+        "__uuid__": "9e5e84f8-f440-4441-9565-35ddc7303538"
+      },
+      "shibai_2": {
+        "__uuid__": "9a1f66ab-60b3-4f68-ab67-c82171d138d3"
+      },
+      "shibai_3": {
+        "__uuid__": "b4169be4-0c35-4da6-b745-fa41f7601669"
+      },
+      "shibai_4": {
+        "__uuid__": "527a5046-2a67-4564-bfb0-e2ef0e947801"
+      },
+      "shibai_5": {
+        "__uuid__": "4f1300e0-7bc7-45ea-b0b5-58e1389a1f93"
+      },
+      "shibai_6": {
+        "__uuid__": "5721532b-49b0-4473-942b-b674416849da"
+      },
+      "shibai_7": {
+        "__uuid__": "e1d7796d-b89d-42b8-8807-d6b0ffea72e9"
+      },
+      "shibai_8": {
+        "__uuid__": "e404c8b5-2832-4bb2-b4eb-1fb57e0016a2"
+      },
+      "shibai_glow": {
+        "__uuid__": "a605b8a0-e4b0-4318-a03a-bab9e728c461"
+      },
+      "shibai_shuye1": {
+        "__uuid__": "6512c58a-1c5d-4121-9f4e-5cb9e52e7f62"
+      },
+      "shibai_shuye2": {
+        "__uuid__": "bce5aee7-2e50-4517-a16f-8ec5b7bdbc23"
+      },
+      "shibai_sidai": {
+        "__uuid__": "401e3602-7e23-44f1-81d7-25cac69a3365"
+      },
+      "shibai_x_00000": {
+        "__uuid__": "06a5872a-b2d3-45ac-b7bf-51552ff80e6f"
+      },
+      "shibai_x_00001": {
+        "__uuid__": "78c9e738-9b9e-475f-9026-bbeeeded1fad"
+      },
+      "shibai_x_00002": {
+        "__uuid__": "09d204ea-3d73-4e66-9a3b-04fdf1d887a5"
+      },
+      "shibai_x_00003": {
+        "__uuid__": "8864a975-e672-4aa9-9a0f-08de019d89ed"
+      },
+      "shibai_x_00004": {
+        "__uuid__": "a201749a-1823-40a9-ae94-0695239c0460"
+      },
+      "shibai_x_00005": {
+        "__uuid__": "60b6c065-ff88-4546-9c22-3600eb2496d1"
+      },
+      "shibai_x_00006": {
+        "__uuid__": "7cf84cd6-ebf1-4fc1-8591-3fe977382c3f"
+      },
+      "shibai_x_00007": {
+        "__uuid__": "6985475c-0bca-4b43-849a-bb1ee0ac1b88"
+      },
+      "shibai_x_00008": {
+        "__uuid__": "2b1b54e3-5567-41e0-b670-3718fb3d45de"
+      },
+      "shibai_x_00009": {
+        "__uuid__": "be012193-b567-4867-adb6-f6f3e00b9e7f"
+      },
+      "shibai_x_00010": {
+        "__uuid__": "371ab8cf-35de-4a75-bcf0-b14805517885"
+      },
+      "shibai_x_00011": {
+        "__uuid__": "35e4e23a-cf8d-4a65-8947-063d5ee17b93"
+      },
+      "shibai_xian_00000": {
+        "__uuid__": "edbcba59-1c46-416f-87c2-a5d4ad4468e0"
+      },
+      "shibai_xian_00001": {
+        "__uuid__": "2129a82c-2259-4260-ab3f-a747212f5419"
+      },
+      "shibai_xian_00002": {
+        "__uuid__": "1b18d6bf-80db-46bd-a4be-5e6c33f0302e"
+      },
+      "shibai_xian_00003": {
+        "__uuid__": "d402e561-b71d-485b-a292-e50a6c70f303"
+      },
+      "shibai_xian_00004": {
+        "__uuid__": "00a7b1d2-3469-41e7-8f8f-0504b36de594"
+      },
+      "shibai_xian_00005": {
+        "__uuid__": "3c41c1af-96b2-4458-a915-0361213c0347"
+      },
+      "shibai_xian_00006": {
+        "__uuid__": "5e0093ba-96c7-4722-9543-94e45abda91f"
+      },
+      "shibai_xian_00007": {
+        "__uuid__": "f6a99d05-5821-42d0-bbf8-8b45e0be4d80"
+      },
+      "shibai_xian_00008": {
+        "__uuid__": "7e238ad0-b68f-4b52-85ee-bc54bcecc1b9"
+      },
+      "shibai_xian_00009": {
+        "__uuid__": "d52ddcc1-0b1a-4bc5-b8e6-fab1a9a91cbe"
+      },
+      "shibai_xian_00010": {
+        "__uuid__": "da87f023-4d00-4ad1-8d73-6d66454cef71"
+      },
+      "shibai_xian_00011": {
+        "__uuid__": "9e6d0de5-e585-45bf-8356-64132d52fd2c"
+      },
+      "shibai_xian_00012": {
+        "__uuid__": "a840dbe6-6ef6-4688-83e6-d9865667fb19"
+      },
+      "shibai_xian_00013": {
+        "__uuid__": "e8a52f1a-fe6f-4f95-ade4-4d841f8b9aea"
+      },
+      "shibai_xian_00014": {
+        "__uuid__": "512164ec-63d3-4327-918d-ad0efd38d860"
+      },
+      "shibai_xian_00015": {
+        "__uuid__": "bdd16c4a-af77-425c-bdbd-463455f811f4"
+      },
+      "shibai_xian_00016": {
+        "__uuid__": "e3b70bb6-e913-406e-ada9-6fb3be547f3e"
+      },
+      "shibai_xian_00017": {
+        "__uuid__": "1fc40c55-4e65-41c3-9664-d86e22ab34db"
+      },
+      "shibai_xian_00018": {
+        "__uuid__": "f6c679cd-7943-4c36-a0b1-0c92691fcf4d"
+      },
+      "shibai_xian_00019": {
+        "__uuid__": "8bc45300-c580-4c1d-b38e-55231516fa54"
+      },
+      "shibai_xian_00020": {
+        "__uuid__": "54c6afe6-5826-44ee-8b73-078b3b6d2709"
+      },
+      "shibai_zi": {
+        "__uuid__": "e0ce498a-feb0-4b20-81b3-b5bf80f30a1d"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00011",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1770,
+        405,
+        158,
+        68
+      ],
+      "offset": [
+        -1,
+        -21
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00010",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        843,
+        663,
+        152,
+        68
+      ],
+      "offset": [
+        -2,
+        -21
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_sidai",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        2,
+        77,
+        455,
+        132
+      ],
+      "offset": [
+        0,
+        11
+      ],
+      "originalSize": [
+        455,
+        164
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00005",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1257,
+        699,
+        75,
+        73
+      ],
+      "offset": [
+        -156,
+        135
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00002",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1842,
+        388,
+        250,
+        202
+      ],
+      "offset": [
+        11,
+        7
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_sidai",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        2,
+        522,
+        451,
+        108
+      ],
+      "offset": [
+        2,
+        -1
+      ],
+      "originalSize": [
+        455,
+        164
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00005",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        751,
+        733,
+        242,
+        182
+      ],
+      "offset": [
+        2,
+        14
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_5",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        459,
+        103,
+        48,
+        42
+      ],
+      "offset": [
+        22,
+        11
+      ],
+      "originalSize": [
+        210,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00014",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1438,
+        2,
+        417,
+        99
+      ],
+      "offset": [
+        16,
+        70
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_4",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        459,
+        175,
+        36,
+        38
+      ],
+      "offset": [
+        -51,
+        10
+      ],
+      "originalSize": [
+        210,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00020",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1857,
+        2,
+        187,
+        25
+      ],
+      "offset": [
+        144,
+        25
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_6",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        458,
+        267,
+        46,
+        34
+      ],
+      "offset": [
+        52,
+        13
+      ],
+      "originalSize": [
+        210,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_zi",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1857,
+        29,
+        184,
+        77
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        184,
+        79
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00006",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1332,
+        531,
+        127,
+        93
+      ],
+      "offset": [
+        -148,
+        125
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00005",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1418,
+        849,
+        258,
+        80
+      ],
+      "offset": [
+        -4,
+        -22
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_shuye1",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1332,
+        660,
+        60,
+        92
+      ],
+      "offset": [
+        2,
+        2
+      ],
+      "originalSize": [
+        114,
+        114
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00001",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1835,
+        640,
+        278,
+        210
+      ],
+      "offset": [
+        -5,
+        -1
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00007",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1613,
+        931,
+        168,
+        80
+      ],
+      "offset": [
+        -4,
+        -24
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00013",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1154,
+        1110,
+        190,
+        158
+      ],
+      "offset": [
+        -1,
+        15
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00001",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        860,
+        317,
+        276,
+        138
+      ],
+      "offset": [
+        1,
+        -36
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai2016",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        2,
+        211,
+        309,
+        454
+      ],
+      "offset": [
+        -18,
+        -17
+      ],
+      "originalSize": [
+        345,
+        500
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00011",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1417,
+        931,
+        194,
+        192
+      ],
+      "offset": [
+        10,
+        13
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00006",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1695,
+        946,
+        194,
+        78
+      ],
+      "offset": [
+        -3,
+        -23
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00008",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1834,
+        920,
+        205,
+        121
+      ],
+      "offset": [
+        -112,
+        113
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00003",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1842,
+        108,
+        278,
+        204
+      ],
+      "offset": [
+        1,
+        10
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00004",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        493,
+        689,
+        256,
+        194
+      ],
+      "offset": [
+        15,
+        13
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00003",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1000,
+        355,
+        348,
+        174
+      ],
+      "offset": [
+        -2,
+        -37
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00019",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1410,
+        147,
+        231,
+        25
+      ],
+      "offset": [
+        118,
+        25
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_2",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        459,
+        77,
+        44,
+        24
+      ],
+      "offset": [
+        -22,
+        21
+      ],
+      "originalSize": [
+        210,
+        140
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_1",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1350,
+        431,
+        62,
+        32
+      ],
+      "offset": [
+        -31,
+        -16
+      ],
+      "originalSize": [
+        210,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00011",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1437,
+        405,
+        331,
+        137
+      ],
+      "offset": [
+        -58,
+        106
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00004",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        493,
+        513,
+        348,
+        174
+      ],
+      "offset": [
+        -2,
+        -37
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_glow",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        2,
+        2,
+        501,
+        73
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        501,
+        73
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00012",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        493,
+        317,
+        365,
+        143
+      ],
+      "offset": [
+        -42,
+        103
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_3",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        459,
+        153,
+        40,
+        20
+      ],
+      "offset": [
+        -20,
+        3
+      ],
+      "originalSize": [
+        210,
+        140
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_shuye2",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        458,
+        213,
+        52,
+        34
+      ],
+      "offset": [
+        -1,
+        -1
+      ],
+      "originalSize": [
+        78,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00015",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1007,
+        282,
+        401,
+        71
+      ],
+      "offset": [
+        39,
+        51
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_x_00009",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        843,
+        595,
+        154,
+        66
+      ],
+      "offset": [
+        -1,
+        -22
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00009",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1225,
+        892,
+        216,
+        190
+      ],
+      "offset": [
+        -3,
+        22
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00003",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        2,
+        632,
+        431,
+        149
+      ],
+      "offset": [
+        25,
+        96
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00009",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        493,
+        885,
+        253,
+        129
+      ],
+      "offset": [
+        -97,
+        109
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00010",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1427,
+        544,
+        293,
+        135
+      ],
+      "offset": [
+        -78,
+        107
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_zi",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1613,
+        1101,
+        170,
+        77
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        184,
+        79
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_7",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1350,
+        355,
+        74,
+        58
+      ],
+      "offset": [
+        35,
+        0
+      ],
+      "originalSize": [
+        210,
+        140
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00016",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        493,
+        462,
+        365,
+        49
+      ],
+      "offset": [
+        58,
+        37
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_8",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        435,
+        737,
+        18,
+        28
+      ],
+      "offset": [
+        57,
+        -19
+      ],
+      "originalSize": [
+        210,
+        140
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00013",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1007,
+        147,
+        401,
+        133
+      ],
+      "offset": [
+        -15,
+        91
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00006",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        997,
+        699,
+        258,
+        174
+      ],
+      "offset": [
+        -4,
+        10
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00000",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1857,
+        2,
+        187,
+        25
+      ],
+      "offset": [
+        144,
+        25
+      ],
+      "originalSize": [
+        711,
+        661
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00012",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        748,
+        917,
+        180,
+        202
+      ],
+      "offset": [
+        -4,
+        8
+      ],
+      "originalSize": [
+        500,
+        300
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00007",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1722,
+        565,
+        167,
+        111
+      ],
+      "offset": [
+        -131,
+        119
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shibai_xian_00018",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        458,
+        640,
+        279,
+        33
+      ],
+      "offset": [
+        98,
+        29
+      ],
+      "originalSize": [
+        711,
+        661
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shengli_x_00007",
+      "texture": "1ff05d51-5104-4d63-a852-2c2c54d951b6",
+      "rect": [
+        1426,
+        681,
+        278,
+        166
+      ],
+      "offset": [
+        6,
+        7
+      ],
+      "originalSize": [
+        500,
+        300
+      ]
+    }
+  }
+]

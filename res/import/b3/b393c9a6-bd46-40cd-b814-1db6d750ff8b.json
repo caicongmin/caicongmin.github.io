@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff3",
+    "texture": "6eb7803b-5694-449a-96d7-7ec436b867a0",
+    "rect": [
+      2,
+      2,
+      1017,
+      1878
+    ],
+    "offset": [
+      -1.5,
+      83
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ]
+  }
+}

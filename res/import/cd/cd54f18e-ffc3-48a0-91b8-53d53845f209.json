@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_ddz",
+    "texture": "120a6559e",
+    "rect": [
+      997,
+      536,
+      121,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      121,
+      25
+    ],
+    "rotated": 1
+  }
+}

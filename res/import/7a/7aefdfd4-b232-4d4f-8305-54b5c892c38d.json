@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_selected_bg",
+    "texture": "39cc038e-958f-42e5-af2c-5e59a0a766c6",
+    "rect": [
+      0,
+      0,
+      200,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      84
+    ]
+  }
+}

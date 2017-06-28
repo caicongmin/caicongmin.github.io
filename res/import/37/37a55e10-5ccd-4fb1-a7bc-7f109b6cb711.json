@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_BSJS_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":60,\"y\":658,\"height\":46,\"name\":\"BSJS_07\",\"x\":384},{\"width\":432,\"y\":282,\"height\":261,\"name\":\"BSJS_06\",\"x\":1},{\"width\":405,\"y\":1,\"height\":279,\"name\":\"BSJS_05\",\"x\":1},{\"width\":384,\"y\":771,\"height\":110,\"name\":\"BSJS_03\",\"x\":1},{\"width\":381,\"y\":883,\"height\":109,\"name\":\"BSJS_01\",\"x\":1},{\"width\":381,\"y\":658,\"height\":111,\"name\":\"BSJS_02\",\"x\":1},{\"width\":384,\"y\":545,\"height\":111,\"name\":\"BSJS_04\",\"x\":1}],\"width\":512,\"height\":1024,\"name\":\"ddz_BSJS_animation\",\"imagePath\":\"ddz_BSJS_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "8a4b3c1c-3d83-49d6-b9ab-e241a9fec39a"
+  }
+}

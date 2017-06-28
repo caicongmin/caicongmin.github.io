@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result_flag_1",
+    "texture": "afd313f9-8b9c-49bc-8355-1d5bf67d3bbb",
+    "rect": [
+      0,
+      0,
+      67,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      89
+    ]
+  }
+}

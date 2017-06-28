@@ -1,0 +1,1052 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00012",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        130,
+        180,
+        37,
+        46
+      ],
+      "offset": [
+        -1,
+        1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00003",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        273,
+        66,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00003",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        121,
+        332,
+        41,
+        48
+      ],
+      "offset": [
+        4,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00000",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        485,
+        2,
+        23,
+        6
+      ],
+      "offset": [
+        6,
+        20
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00005",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        135,
+        66,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00004",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        204,
+        66,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00018",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        71,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_quan",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        199,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00019",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00016",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        209,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_glow",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        332,
+        53,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00013",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        416,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00002",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        111,
+        438,
+        37,
+        48
+      ],
+      "offset": [
+        6,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00002",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        342,
+        66,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00004",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        438,
+        43,
+        48
+      ],
+      "offset": [
+        3,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00017",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        140,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00006",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        111,
+        388,
+        41,
+        48
+      ],
+      "offset": [
+        2,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00011",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        150,
+        438,
+        35,
+        48
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00012",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        90,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00010",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        187,
+        432,
+        33,
+        48
+      ],
+      "offset": [
+        -2,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00015",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        480,
+        90,
+        37,
+        30
+      ],
+      "offset": [
+        0,
+        9
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00016",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        485,
+        10,
+        39,
+        18
+      ],
+      "offset": [
+        1,
+        14
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00013",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        130,
+        228,
+        37,
+        44
+      ],
+      "offset": [
+        -1,
+        2
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00008",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        366,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00008",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        154,
+        382,
+        35,
+        48
+      ],
+      "offset": [
+        -2,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00014",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        347,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00001",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        485,
+        2,
+        23,
+        6
+      ],
+      "offset": [
+        6,
+        20
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00014",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        165,
+        130,
+        37,
+        40
+      ],
+      "offset": [
+        -1,
+        4
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00007",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        435,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00018",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        66,
+        29,
+        10
+      ],
+      "offset": [
+        6,
+        18
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00019",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        505,
+        10,
+        1,
+        1
+      ],
+      "offset": [
+        -33,
+        30
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00011",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        159,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00007",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        123,
+        268,
+        39,
+        48
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00015",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        278,
+        2,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00009",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        130,
+        130,
+        33,
+        48
+      ],
+      "offset": [
+        -3,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00005",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        388,
+        43,
+        48
+      ],
+      "offset": [
+        3,
+        -1
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_xingxing",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        268,
+        55,
+        62
+      ],
+      "offset": [
+        6,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00009",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        297,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00001",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        411,
+        66,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00010",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        2,
+        228,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "tx_jb_zuanshi.plist",
+    "_spriteFrames": {
+      "tx_jb_glow": {
+        "__uuid__": "44996e6d-383e-48f3-b732-ea76e9432d21"
+      },
+      "tx_jb_quan": {
+        "__uuid__": "3357365d-ae9a-4194-9372-871308b73a64"
+      },
+      "tx_jb_saoguang_00000": {
+        "__uuid__": "1057b7d8-fcdb-4bf5-b34b-675d1782dc9a"
+      },
+      "tx_jb_saoguang_00001": {
+        "__uuid__": "8d9328a8-6fba-403b-9bf9-87fd51e09e45"
+      },
+      "tx_jb_saoguang_00002": {
+        "__uuid__": "4a2ce743-ada9-4617-8c3d-bdcae376c9b2"
+      },
+      "tx_jb_saoguang_00003": {
+        "__uuid__": "0729e128-fe6c-4e1a-9bc9-e4c62a6ab42f"
+      },
+      "tx_jb_saoguang_00004": {
+        "__uuid__": "55601642-bf81-4161-b8a4-29e7cfebf751"
+      },
+      "tx_jb_saoguang_00005": {
+        "__uuid__": "c5d07fb8-1c75-45f5-910b-7c0cbfb666db"
+      },
+      "tx_jb_saoguang_00006": {
+        "__uuid__": "56b59941-3a0a-4f85-951a-04f8c468a364"
+      },
+      "tx_jb_saoguang_00007": {
+        "__uuid__": "b381a7b1-afd4-4b16-9371-0f30cfaf1f12"
+      },
+      "tx_jb_saoguang_00008": {
+        "__uuid__": "8a81ffaf-b333-4ddf-a3ee-965fd10159d0"
+      },
+      "tx_jb_saoguang_00009": {
+        "__uuid__": "c5420e80-156f-45b9-8800-0fe5e72a382f"
+      },
+      "tx_jb_saoguang_00010": {
+        "__uuid__": "7c6f40fc-6c90-43bb-954d-127f58a7a93f"
+      },
+      "tx_jb_saoguang_00011": {
+        "__uuid__": "5fe7443d-87ec-4d87-82b7-909a54c62a44"
+      },
+      "tx_jb_saoguang_00012": {
+        "__uuid__": "00620ec6-b1b7-476a-9cad-e51aea2d5961"
+      },
+      "tx_jb_saoguang_00013": {
+        "__uuid__": "836b6f1e-88f1-4529-b062-6325bbe1f3f6"
+      },
+      "tx_jb_saoguang_00014": {
+        "__uuid__": "985a8f44-a50f-4cbf-b165-b4f45b99c703"
+      },
+      "tx_jb_saoguang_00015": {
+        "__uuid__": "802c05e3-b9ae-4c3c-8d01-744dfc5b708a"
+      },
+      "tx_jb_saoguang_00016": {
+        "__uuid__": "835bb138-03f8-442d-bd40-116800ceef87"
+      },
+      "tx_jb_saoguang_00017": {
+        "__uuid__": "f8c015e6-18ef-4ff3-a6c0-d70119adc0df"
+      },
+      "tx_jb_saoguang_00018": {
+        "__uuid__": "a21cd67d-315b-4ea5-8de9-9e4bf17cb3ef"
+      },
+      "tx_jb_saoguang_00019": {
+        "__uuid__": "a608ab81-b510-4d31-b914-061120c7df20"
+      },
+      "tx_jb_xingxing": {
+        "__uuid__": "ce3c7e74-ede8-40e9-81d7-1530edf30de3"
+      },
+      "tx_zs_liuguang_00000": {
+        "__uuid__": "ee9e5513-e8c0-4bc6-93cc-25326b52bb5c"
+      },
+      "tx_zs_liuguang_00001": {
+        "__uuid__": "ddb09c9f-fabd-4bc7-8d50-610d21924657"
+      },
+      "tx_zs_liuguang_00002": {
+        "__uuid__": "4dfa92be-b31c-4534-a259-fa656fa1fca1"
+      },
+      "tx_zs_liuguang_00003": {
+        "__uuid__": "0609f9eb-52d3-4baa-99bb-5ac9b44ab732"
+      },
+      "tx_zs_liuguang_00004": {
+        "__uuid__": "1b166317-7f5f-42b0-ab3e-3dd519364d32"
+      },
+      "tx_zs_liuguang_00005": {
+        "__uuid__": "11f6b1f9-d352-4b6c-a7ba-5eabfebbedb3"
+      },
+      "tx_zs_liuguang_00006": {
+        "__uuid__": "ece35b5f-ee93-43f7-b9f8-2f085105913d"
+      },
+      "tx_zs_liuguang_00007": {
+        "__uuid__": "9bca7b8a-9217-44b2-8181-abef81d5c25c"
+      },
+      "tx_zs_liuguang_00008": {
+        "__uuid__": "844b1f80-5508-4f6f-9610-e5198b040c05"
+      },
+      "tx_zs_liuguang_00009": {
+        "__uuid__": "d756b8ab-b5cd-4c31-9018-ff1078ed95aa"
+      },
+      "tx_zs_liuguang_00010": {
+        "__uuid__": "e65851d0-e5c7-4f53-9812-6d81092ea579"
+      },
+      "tx_zs_liuguang_00011": {
+        "__uuid__": "ab2bd8ec-a667-4e0a-9731-732e31532502"
+      },
+      "tx_zs_liuguang_00012": {
+        "__uuid__": "685b2c24-7fb7-4fc9-870e-5d9f81d70a84"
+      },
+      "tx_zs_liuguang_00013": {
+        "__uuid__": "4650202c-11bd-4510-af06-15be1b49c524"
+      },
+      "tx_zs_liuguang_00014": {
+        "__uuid__": "8aef0533-14d6-4fd1-abad-610d19d13954"
+      },
+      "tx_zs_liuguang_00015": {
+        "__uuid__": "b70393ae-1e40-4b54-9902-430e5e3ddced"
+      },
+      "tx_zs_liuguang_00016": {
+        "__uuid__": "4054de53-a741-4309-8c0c-a7d5ec3c9443"
+      },
+      "tx_zs_liuguang_00017": {
+        "__uuid__": "558d6e4c-fea6-4f6e-879f-5b66d67abb37"
+      },
+      "tx_zs_liuguang_00018": {
+        "__uuid__": "274b2f4d-f4f0-4be2-af67-09d39303dff0"
+      },
+      "tx_zs_liuguang_00019": {
+        "__uuid__": "33e9adc2-55ac-4588-9901-cd0f22b221be"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00006",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        66,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_zs_liuguang_00000",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        66,
+        130,
+        67,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tx_jb_saoguang_00017",
+      "texture": "dce70aac-045b-4ce8-93a1-cd6d55c36d14",
+      "rect": [
+        485,
+        51,
+        37,
+        14
+      ],
+      "offset": [
+        4,
+        16
+      ],
+      "originalSize": [
+        67,
+        62
+      ],
+      "rotated": 1
+    }
+  }
+]

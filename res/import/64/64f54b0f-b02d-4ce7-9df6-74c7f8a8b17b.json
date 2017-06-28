@@ -1,0 +1,5 @@
+{
+  "__type__": "dragonBones.DragonBonesAsset",
+  "_name": "ddz_spring3_animation_ske",
+  "_dragonBonesJson": "{\"frameRate\":60,\"isGlobal\":0,\"armature\":[{\"aabb\":{\"width\":267,\"y\":-76,\"height\":152,\"x\":-133.5},\"defaultActions\":[{\"gotoAndPlay\":\"Ani_spring_3\"}],\"type\":\"Armature\",\"frameRate\":60,\"animation\":[{\"frame\":[],\"duration\":30,\"slot\":[{\"frame\":[{\"tweenEasing\":0,\"duration\":30},{\"tweenEasing\":null,\"duration\":0}],\"name\":\"Layer1\"}],\"bone\":[{\"frame\":[{\"tweenEasing\":0,\"transform\":{\"scX\":0,\"scY\":0},\"duration\":30},{\"tweenEasing\":null,\"transform\":{},\"duration\":0}],\"name\":\"Layer1\"}],\"name\":\"Ani_spring_3\",\"ffd\":[]}],\"slot\":[{\"name\":\"Layer1\",\"parent\":\"Layer1\",\"color\":{}}],\"bone\":[{\"name\":\"Layer1\",\"transform\":{}}],\"ik\":[],\"name\":\"armatureName\",\"skin\":[{\"slot\":[{\"display\":[{\"type\":\"image\",\"name\":\"ddz_play_spring3\",\"transform\":{}}],\"name\":\"Layer1\"}],\"name\":\"\"}]}],\"name\":\"ddz_spring3_animation\",\"version\":\"4.0\"}"
+}

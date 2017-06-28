@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sc_sclb",
+    "texture": "e3c5ba1e-0ad7-44fc-a30e-b7c504679523",
+    "rect": [
+      2,
+      2,
+      311,
+      452
+    ],
+    "offset": [
+      -98.5,
+      28
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}

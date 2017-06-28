@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangbg _Update",
+    "texture": "3e7f1d7b-4674-4e3d-940d-b615a18be473",
+    "rect": [
+      0,
+      0,
+      241,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      241,
+      79
+    ]
+  }
+}

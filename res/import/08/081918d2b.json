@@ -1,0 +1,211 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "border",
+      "texture": "1123f6911",
+      "rect": [
+        90,
+        902,
+        81,
+        81
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        87
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "boy_big",
+      "texture": "1123f6911",
+      "rect": [
+        460,
+        210,
+        170,
+        170
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        170,
+        170
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "avatar",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": false
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "avatar",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 4
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 1
+          },
+          "_alignFlags": 9,
+          "_left": 51.25,
+          "_top": 71.75
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 1
+          },
+          "_N$target": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "2c23cNBIlpPMbDP4i9TxxT5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 113,
+        "height": 113
+      },
+      "_scaleX": 1.5,
+      "_scaleY": 1.5,
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -178,
+        "y": -18
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "mask",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Mask",
+          "node": {
+            "__id__": 2
+          },
+          "_type": 1,
+          "_segements": 305
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "15569qCeNhHfoWfi5xLRqpL"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 113,
+        "height": 113
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "img",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "60ca6372-315a-4af3-ad46-62d0cfd8c69b"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "235b8/6lldG8aPnm/89YUXw",
+          "node": {
+            "__id__": 3
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "ba155WzMNBADIeTdeDPJTxZ"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 85,
+        "height": 85
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -0.2
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "border",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "0facc4b1-d5cc-4bed-9dde-ecf11c969dcd"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "fileId": "4d552lRKD1PJrbPojp84afR"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 88,
+        "height": 88
+      }
+    }
+  ]
+]

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notice_background",
+    "texture": "11278b3c3",
+    "rect": [
+      2,
+      2,
+      931,
+      529
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      931,
+      529
+    ]
+  }
+}

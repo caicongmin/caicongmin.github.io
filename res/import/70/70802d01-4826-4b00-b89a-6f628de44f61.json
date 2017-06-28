@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "update_progress_back",
+    "texture": "120a6559e",
+    "rect": [
+      2,
+      863,
+      490,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      490,
+      30
+    ]
+  }
+}

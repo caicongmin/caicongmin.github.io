@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gameloding00013",
+    "texture": "7456945a-7d0f-4e63-a041-f3d59e836324",
+    "rect": [
+      0,
+      6,
+      190,
+      167
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      190,
+      174
+    ]
+  }
+}

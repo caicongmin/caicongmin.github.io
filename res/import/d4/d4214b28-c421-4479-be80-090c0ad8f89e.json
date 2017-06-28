@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dice",
+    "texture": "9ac9c002-72d9-418b-b699-cb0de2a2a4c5",
+    "rect": [
+      2,
+      2,
+      507,
+      790
+    ],
+    "offset": [
+      -0.5,
+      115
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

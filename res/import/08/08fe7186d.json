@@ -1,0 +1,32 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_score_num",
+      "texture": "8b7f1ff6-bd7e-4818-b080-1f3571a05859",
+      "rect": [
+        2,
+        0,
+        508,
+        35
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        510,
+        35
+      ]
+    }
+  },
+  {
+    "__type__": "cc.LabelAtlas",
+    "_name": "game_score_num",
+    "fntDataStr": "info face=\"Arial\" size=30.8 bold=0 italic=0 charset=\"\" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spaceing=0,0\ncommon lineHeight=35 base=30.8 scaleW=510 scaleH=35 pages=1 packed=0\npage id=0 file=\"game_score_num\"\nchars count=0\nchar id=43     x=0   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"+\"\nchar id=44     x=30   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\",\"\nchar id=45     x=60   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"-\"\nchar id=46     x=90   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\".\"\nchar id=47     x=120   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"/\"\nchar id=48     x=150   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"0\"\nchar id=49     x=180   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"1\"\nchar id=50     x=210   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"2\"\nchar id=51     x=240   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"3\"\nchar id=52     x=270   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"4\"\nchar id=53     x=300   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"5\"\nchar id=54     x=330   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"6\"\nchar id=55     x=360   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"7\"\nchar id=56     x=390   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"8\"\nchar id=57     x=420   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\"9\"\nchar id=58     x=450   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\":\"\nchar id=59     x=480   y=0   width=30     height=35     xoffset=0     yoffset=0    xadvance=30    page=0 chnl=0 letter=\";\"\n",
+    "spriteFrame": {
+      "__uuid__": "64ef4064-666c-4733-9317-fd6bdc809141"
+    },
+    "fontSize": 30.8
+  }
+]

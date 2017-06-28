@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clearing_win_nums",
+    "texture": "77ba92cc-df81-4a46-b985-df22810ada47",
+    "rect": [
+      0,
+      0,
+      309,
+      41
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      310,
+      41
+    ]
+  }
+}

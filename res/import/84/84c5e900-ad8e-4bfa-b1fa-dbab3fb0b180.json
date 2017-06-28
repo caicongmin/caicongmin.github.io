@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_bottom_toolbar_bg",
+    "texture": "5d50a44e-963c-4f82-9c21-a2ce7a3431cb",
+    "rect": [
+      0,
+      0,
+      215,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      215,
+      61
+    ]
+  }
+}

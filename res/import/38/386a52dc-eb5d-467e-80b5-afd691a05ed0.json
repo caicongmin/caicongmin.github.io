@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "recharge_checked",
+    "texture": "1aeaa279a",
+    "rect": [
+      969,
+      572,
+      168,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      50
+    ],
+    "rotated": 1
+  }
+}

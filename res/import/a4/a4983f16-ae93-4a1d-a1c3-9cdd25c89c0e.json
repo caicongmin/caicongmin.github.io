@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_clock_number",
+    "texture": "81815fc7-dc06-4517-8abe-ef779118e213",
+    "rect": [
+      0,
+      0,
+      260,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      35
+    ]
+  }
+}

@@ -1,0 +1,1294 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-4-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        85,
+        28,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-6-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        419,
+        92,
+        27,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-1-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        482,
+        183,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-12-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        393,
+        2,
+        31,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-3-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        439,
+        32,
+        28,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-flag3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        460,
+        121,
+        24,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        23
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-10-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        143,
+        40,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-8-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        185,
+        35,
+        28,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-11-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        279,
+        184,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-12-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        185,
+        2,
+        31,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-5-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        325,
+        85,
+        27,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-4-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        185,
+        94,
+        28,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-1-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        413,
+        180,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-5-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        370,
+        94,
+        27,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-13-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        369,
+        123,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-10-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        280,
+        142,
+        40,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-2-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        415,
+        121,
+        27,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-bg2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        113,
+        457,
+        46,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        60
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-3-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        439,
+        62,
+        28,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-14-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        31,
+        23,
+        156
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        23,
+        156
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-11-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        324,
+        156,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "suit-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        457,
+        172,
+        23,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        23,
+        23
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-14-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        2,
+        27,
+        156
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        156
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-2-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        115,
+        26,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-9-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        185,
+        65,
+        27,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "suit-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        460,
+        147,
+        23,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        23,
+        23
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-flag-down",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        113,
+        383,
+        70,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        70,
+        72
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-9-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        281,
+        56,
+        27,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-6-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        327,
+        56,
+        27,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-2-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        280,
+        114,
+        26,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        26,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-7-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        485,
+        2,
+        25,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-bg4",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        175,
+        457,
+        46,
+        58
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        46,
+        58
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "cardsAtlas.plist",
+    "_spriteFrames": {
+      "card-1-1": {
+        "__uuid__": "a271ab76-3a6a-4084-a607-c6b99278a688"
+      },
+      "card-1-2": {
+        "__uuid__": "40cb7f17-916e-477f-9ef5-c76f89196d03"
+      },
+      "card-1-3": {
+        "__uuid__": "06adbf28-e395-4360-ab39-22cf1d058b14"
+      },
+      "card-10-1": {
+        "__uuid__": "1937e467-365f-490f-8fed-50bfb06418cc"
+      },
+      "card-10-2": {
+        "__uuid__": "49201980-c636-46f1-b693-2d52a5a74bdc"
+      },
+      "card-10-3": {
+        "__uuid__": "ea025fae-8927-4b6b-b33a-96bd8ea10e27"
+      },
+      "card-11-1": {
+        "__uuid__": "da5ff1e5-3c16-4002-aec1-c204d05aa3f3"
+      },
+      "card-11-2": {
+        "__uuid__": "24850ce9-e871-4dff-adb7-569ecc247587"
+      },
+      "card-11-3": {
+        "__uuid__": "5a581bc0-fa1e-414f-aede-065f799f3fa6"
+      },
+      "card-12-1": {
+        "__uuid__": "089bdb60-3cfa-4781-b517-6c5f3c4081ee"
+      },
+      "card-12-2": {
+        "__uuid__": "b8fe0af8-865b-48e3-9283-2408f4e2a249"
+      },
+      "card-12-3": {
+        "__uuid__": "2732552b-63ad-44e4-b307-ee2c7b278f8c"
+      },
+      "card-13-1": {
+        "__uuid__": "a9bc839d-ca4c-418c-8fca-c122375b010c"
+      },
+      "card-13-2": {
+        "__uuid__": "ce95fb33-2699-48d4-a046-be45d7a99ed3"
+      },
+      "card-13-3": {
+        "__uuid__": "444e1ecc-ec75-4420-9dba-259cce253fd6"
+      },
+      "card-14-1": {
+        "__uuid__": "53d0d065-16c7-461c-8cb6-edabdb6e2d0e"
+      },
+      "card-14-2": {
+        "__uuid__": "6af5b1b2-7d94-4055-87ba-b65a28b1ee5f"
+      },
+      "card-2-1": {
+        "__uuid__": "6b9cd919-9d43-4848-8f9a-d3ad179b5f40"
+      },
+      "card-2-2": {
+        "__uuid__": "859cc04a-49a9-4ec0-862c-7d2ecc8583c2"
+      },
+      "card-2-3": {
+        "__uuid__": "4b2fd5d3-ecd4-400d-9ba5-64c7a0a5eb92"
+      },
+      "card-3-1": {
+        "__uuid__": "523e4215-d3dd-4ad7-bce5-d1496343de89"
+      },
+      "card-3-2": {
+        "__uuid__": "b95b8062-83fa-4aa3-99a1-2e0d0bac67cc"
+      },
+      "card-3-3": {
+        "__uuid__": "09c728cf-245a-486c-931f-09d98cdb61d2"
+      },
+      "card-4-1": {
+        "__uuid__": "ae90d4ac-1b77-4b62-b88f-af71df72fdc8"
+      },
+      "card-4-2": {
+        "__uuid__": "327ea216-9af3-4655-ba2f-f7fe27f9a4ed"
+      },
+      "card-4-3": {
+        "__uuid__": "0150ae72-1474-41cc-8086-ff7f3967f5f5"
+      },
+      "card-5-1": {
+        "__uuid__": "416b50c8-5d4a-40a8-8dcd-060bab33823d"
+      },
+      "card-5-2": {
+        "__uuid__": "2ef2e14f-edb8-48d4-a331-daaf40859857"
+      },
+      "card-5-3": {
+        "__uuid__": "cb08bbe6-2c82-4892-94a8-d6f60e18732e"
+      },
+      "card-6-1": {
+        "__uuid__": "057b3f6b-bbcc-4064-9c81-162e87062aa8"
+      },
+      "card-6-2": {
+        "__uuid__": "c7068526-c1ae-4fcc-9163-ec9e110bfb99"
+      },
+      "card-6-3": {
+        "__uuid__": "85451804-fe94-4a94-888a-0621612bd78a"
+      },
+      "card-7-1": {
+        "__uuid__": "df88bbd2-2ada-460b-a8d6-f9b57ad1cad0"
+      },
+      "card-7-2": {
+        "__uuid__": "fd6af251-6cfb-42aa-8d6a-8cd1d738a592"
+      },
+      "card-7-3": {
+        "__uuid__": "8635f034-2794-4d8f-8d11-f6f24d5b78de"
+      },
+      "card-8-1": {
+        "__uuid__": "de3fcb95-fd01-4802-b28e-3555452429f3"
+      },
+      "card-8-2": {
+        "__uuid__": "a4b39dae-0543-4e5e-a0dd-8aea4ff257e7"
+      },
+      "card-8-3": {
+        "__uuid__": "20d3ce91-7e47-4486-8e4a-c8bdecdf056b"
+      },
+      "card-9-1": {
+        "__uuid__": "8105b08d-a2a5-4667-8624-5f0a1abf2ba4"
+      },
+      "card-9-2": {
+        "__uuid__": "6be4d125-622a-4a26-bcc9-af73b1f43bbc"
+      },
+      "card-9-3": {
+        "__uuid__": "b6c4cbd1-8ab0-41bb-9fba-7e1c9a50d85b"
+      },
+      "card-bg": {
+        "__uuid__": "c34fa52d-4783-4836-b786-f78f1190ccf7"
+      },
+      "card-bg2": {
+        "__uuid__": "515b6967-fca2-46ae-9ffd-4d5f2c1fff66"
+      },
+      "card-bg3": {
+        "__uuid__": "b98260f4-6f4e-4655-aa74-dc643af833ef"
+      },
+      "card-bg4": {
+        "__uuid__": "96b3b6b3-8a4f-4745-af10-dcd020373d40"
+      },
+      "card-flag-down": {
+        "__uuid__": "8069a117-14b0-49a6-9b94-5ea891e65ba4"
+      },
+      "card-flag-top": {
+        "__uuid__": "d60891be-53ad-4928-b57a-7513f4f3cc79"
+      },
+      "card-flag3": {
+        "__uuid__": "15b37afb-07dc-463e-86d5-0f0396d2caeb"
+      },
+      "suit-1": {
+        "__uuid__": "623ec486-e1ec-416a-b881-6077a1039268"
+      },
+      "suit-2": {
+        "__uuid__": "6e082846-6b2a-4d59-8d04-52409db685d9"
+      },
+      "suit-3": {
+        "__uuid__": "f10210a5-f142-4f82-ad08-a0e4ac9aeb6e"
+      },
+      "suit-4": {
+        "__uuid__": "d4c109f7-c812-4074-8f99-fe4194cd97b4"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-1-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        368,
+        183,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-8-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        148,
+        48,
+        28,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        44
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-13-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        369,
+        153,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-4-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        148,
+        94,
+        28,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        43
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-9-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        56,
+        27,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-12-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        148,
+        2,
+        31,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        44
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-3-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        393,
+        35,
+        28,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-bg3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        2,
+        195,
+        144,
+        186
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        144,
+        186
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-bg",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        2,
+        2,
+        144,
+        191
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        144,
+        191
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-6-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        373,
+        65,
+        27,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-5-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        280,
+        85,
+        27,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-13-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        413,
+        150,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "suit-4",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        485,
+        134,
+        24,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        24
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-flag-top",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        2,
+        383,
+        112,
+        109
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        109
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-11-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        235,
+        185,
+        28,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-8-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        439,
+        2,
+        28,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        44
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-7-1",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        485,
+        90,
+        25,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-10-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        325,
+        114,
+        40,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "suit-3",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        485,
+        160,
+        24,
+        21
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        24,
+        21
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card-7-2",
+      "texture": "d185ac28-012e-4ab2-a0bf-051bc07995f9",
+      "rect": [
+        485,
+        46,
+        25,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        25,
+        42
+      ]
+    }
+  }
+]

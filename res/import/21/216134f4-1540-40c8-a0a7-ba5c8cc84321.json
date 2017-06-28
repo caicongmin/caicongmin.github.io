@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nick_bg",
+    "texture": "1aeaa279a",
+    "rect": [
+      583,
+      866,
+      223,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      52
+    ],
+    "capInsets": [
+      20,
+      0,
+      18,
+      0
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_spring3_animation_tex",
+    "texture": "ce5c2e45-0602-4b83-a411-786629d8a104",
+    "rect": [
+      1,
+      1,
+      263,
+      146
+    ],
+    "offset": [
+      -123.5,
+      54
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

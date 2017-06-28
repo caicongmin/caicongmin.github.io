@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_btn_cancel_ready",
+    "texture": "9e68cb05-5b0a-4da5-955b-7e4ba6512349",
+    "rect": [
+      0,
+      0,
+      264,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      264,
+      87
+    ]
+  }
+}

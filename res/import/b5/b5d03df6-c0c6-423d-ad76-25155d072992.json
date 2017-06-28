@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_top_protocol",
+    "texture": "11278b3c3",
+    "rect": [
+      915,
+      690,
+      321,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      321,
+      65
+    ],
+    "rotated": 1
+  }
+}

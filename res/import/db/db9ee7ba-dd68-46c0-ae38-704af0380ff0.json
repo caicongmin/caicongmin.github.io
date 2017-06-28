@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_cwl_animation_tex",
+    "texture": "75545d93-4765-4664-a96a-74d2692dfde3",
+    "rect": [
+      1,
+      1,
+      222,
+      66
+    ],
+    "offset": [
+      -16,
+      30
+    ],
+    "originalSize": [
+      256,
+      128
+    ]
+  }
+}

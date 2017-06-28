@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_word_buqiang",
+    "texture": "34f4d174-62c3-4298-b4fe-e61ea1cfa93d",
+    "rect": [
+      0,
+      0,
+      128,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      70
+    ]
+  }
+}

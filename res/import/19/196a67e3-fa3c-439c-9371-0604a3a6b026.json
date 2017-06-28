@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Head_Lighting",
+    "texture": "14989f6a-27a6-4845-8653-71ca7e789d3b",
+    "rect": [
+      2,
+      2,
+      252,
+      442
+    ],
+    "offset": [
+      0,
+      33
+    ],
+    "originalSize": [
+      256,
+      512
+    ]
+  }
+}

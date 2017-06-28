@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_gui",
+    "texture": "120a6559e",
+    "rect": [
+      509,
+      536,
+      484,
+      269
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      484,
+      270
+    ],
+    "capInsets": [
+      25,
+      24,
+      24,
+      31
+    ]
+  }
+}

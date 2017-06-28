@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_bujiao",
+    "texture": "0464be2b-4fbc-454a-a7c5-19f0ef3ef2f1",
+    "rect": [
+      0,
+      0,
+      99,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      99,
+      52
+    ]
+  }
+}

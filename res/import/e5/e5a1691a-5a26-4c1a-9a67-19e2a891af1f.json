@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_activity_checked",
+    "texture": "1aeaa279a",
+    "rect": [
+      600,
+      935,
+      155,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      65
+    ]
+  }
+}

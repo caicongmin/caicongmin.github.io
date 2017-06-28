@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "plane",
+    "texture": "b298f362-6ec6-4e93-8207-e83dd4002515",
+    "rect": [
+      10,
+      19,
+      923,
+      474
+    ],
+    "offset": [
+      -26.5,
+      6
+    ],
+    "originalSize": [
+      996,
+      524
+    ]
+  }
+}

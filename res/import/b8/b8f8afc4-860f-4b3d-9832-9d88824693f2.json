@@ -1,0 +1,8 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "ddz_cjjb_animation_tex",
+  "_atlasJson": "{\"SubTexture\":[{\"width\":224,\"y\":1,\"height\":111,\"name\":\"ddz_cjjb_di\",\"x\":1},{\"frameY\":0,\"y\":114,\"frameWidth\":176,\"frameX\":-1,\"frameHeight\":138,\"width\":175,\"height\":138,\"name\":\"ddz_cjjb_xi2\",\"x\":1},{\"width\":248,\"y\":254,\"height\":70,\"name\":\"ddz_cjjb_zi\",\"x\":1}],\"width\":256,\"height\":512,\"name\":\"ddz_cjjb_animation\",\"imagePath\":\"ddz_cjjb_animation_tex.png\"}",
+  "texture": {
+    "__uuid__": "5865d6e8-a6f4-4b4b-9b86-6a46d87a7513"
+  }
+}

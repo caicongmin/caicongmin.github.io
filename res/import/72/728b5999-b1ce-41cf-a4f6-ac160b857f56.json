@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_achievement",
+    "texture": "17f4b47fb",
+    "rect": [
+      2,
+      952,
+      68,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      72
+    ],
+    "rotated": 1
+  }
+}

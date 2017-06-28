@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_jiesuan_shengli_tex",
+    "texture": "927612f3-ccb2-49e9-bd8a-e36fe5fb5842",
+    "rect": [
+      1,
+      1,
+      863,
+      606
+    ],
+    "offset": [
+      -79.5,
+      208
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

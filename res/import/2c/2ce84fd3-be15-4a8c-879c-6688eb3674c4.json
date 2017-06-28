@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_vip",
+    "texture": "1783ad087",
+    "rect": [
+      246,
+      922,
+      49,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      49,
+      34
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_diamond",
+    "texture": "1783ad087",
+    "rect": [
+      639,
+      583,
+      48,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      25
+    ]
+  }
+}

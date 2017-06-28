@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_game_checkd",
+    "texture": "1aeaa279a",
+    "rect": [
+      441,
+      934,
+      155,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      65
+    ]
+  }
+}

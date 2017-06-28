@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_top_left",
+    "texture": "d9ee980d-f118-4e77-8b83-572600cc06c7",
+    "rect": [
+      0,
+      0,
+      397,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      397,
+      74
+    ]
+  }
+}

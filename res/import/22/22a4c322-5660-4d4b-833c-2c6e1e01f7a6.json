@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_word_jiaodizhu",
+    "texture": "5e491d37-10c4-48a4-a55e-95143b0cba9d",
+    "rect": [
+      0,
+      1,
+      187,
+      65
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      187,
+      66
+    ]
+  }
+}

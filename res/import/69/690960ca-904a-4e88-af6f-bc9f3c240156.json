@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "activity_icon",
+    "texture": "7139fd93-a307-45a2-ad8d-ce96a5a15c8d",
+    "rect": [
+      15,
+      15,
+      60,
+      64
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      90,
+      90
+    ]
+  }
+}

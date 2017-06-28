@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Animation_DoubleLine1",
+    "texture": "7c94dd26-2168-48a4-a5f7-b145a55e6604",
+    "rect": [
+      20,
+      106,
+      388,
+      82
+    ],
+    "offset": [
+      4,
+      7.5
+    ],
+    "originalSize": [
+      420,
+      309
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "activity_select",
+    "texture": "120a6559e",
+    "rect": [
+      354,
+      976,
+      19,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      45
+    ]
+  }
+}

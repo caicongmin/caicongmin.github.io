@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_wechat",
+    "texture": "17f4b47fb",
+    "rect": [
+      731,
+      390,
+      306,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      306,
+      100
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_jiang_00002",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        335,
+        404,
+        85,
+        129
+      ],
+      "offset": [
+        112,
+        4
+      ],
+      "originalSize": [
+        331,
+        221
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_xian",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        2,
+        2,
+        472,
+        226
+      ],
+      "offset": [
+        -4,
+        -21
+      ],
+      "originalSize": [
+        512,
+        512
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_jiang_00005",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        335,
+        230,
+        85,
+        129
+      ],
+      "offset": [
+        112,
+        3
+      ],
+      "originalSize": [
+        331,
+        221
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "ddz_px2_fj.plist",
+    "_spriteFrames": {
+      "ddz_px2_fj_feiji": {
+        "__uuid__": "4ac683fa-b727-4a97-af3e-27969a675c49"
+      },
+      "ddz_px2_fj_jiang_00000": {
+        "__uuid__": "5204ad95-82ab-4e6c-b3ea-3da57c855e2e"
+      },
+      "ddz_px2_fj_jiang_00001": {
+        "__uuid__": "db7a5dc3-9f93-480a-aa8a-f70cd978b302"
+      },
+      "ddz_px2_fj_jiang_00002": {
+        "__uuid__": "1dcfef14-bf53-487a-be36-764dae2d8760"
+      },
+      "ddz_px2_fj_jiang_00003": {
+        "__uuid__": "9b69baf4-da22-4002-b785-a0de738b5cd9"
+      },
+      "ddz_px2_fj_jiang_00004": {
+        "__uuid__": "90e911c0-197d-45ff-8f39-dd595b0c2a3b"
+      },
+      "ddz_px2_fj_jiang_00005": {
+        "__uuid__": "2903ed68-362c-42a5-8266-ec6a5d1f31ff"
+      },
+      "ddz_px2_fj_xian": {
+        "__uuid__": "273700a6-6989-4398-9ebf-77fd871509a2"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_feiji",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        2,
+        230,
+        331,
+        221
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        331,
+        221
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_jiang_00000",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        260,
+        491,
+        85,
+        121
+      ],
+      "offset": [
+        112,
+        9
+      ],
+      "originalSize": [
+        331,
+        221
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_jiang_00004",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        335,
+        317,
+        85,
+        129
+      ],
+      "offset": [
+        112,
+        4
+      ],
+      "originalSize": [
+        331,
+        221
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_jiang_00003",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        2,
+        453,
+        85,
+        127
+      ],
+      "offset": [
+        112,
+        6
+      ],
+      "originalSize": [
+        331,
+        221
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ddz_px2_fj_jiang_00001",
+      "texture": "4133b4ab-90ce-4dd7-b241-fae28f300259",
+      "rect": [
+        131,
+        453,
+        85,
+        127
+      ],
+      "offset": [
+        112,
+        6
+      ],
+      "originalSize": [
+        331,
+        221
+      ],
+      "rotated": 1
+    }
+  }
+]

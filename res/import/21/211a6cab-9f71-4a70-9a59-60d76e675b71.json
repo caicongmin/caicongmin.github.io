@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buy_bg",
+    "texture": "1123f6911",
+    "rect": [
+      862,
+      2,
+      138,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      54
+    ]
+  }
+}

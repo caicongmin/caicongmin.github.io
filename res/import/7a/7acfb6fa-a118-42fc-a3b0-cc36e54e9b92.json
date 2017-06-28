@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RoomClock3",
+    "texture": "2a5790c9-a0b5-4efe-b38b-6b5398743fc8",
+    "rect": [
+      5,
+      9,
+      97,
+      93
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      108,
+      108
+    ]
+  }
+}

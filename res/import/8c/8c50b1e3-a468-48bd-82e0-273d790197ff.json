@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hud",
+  "_duration": 0.325,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": null
+          },
+          {
+            "frame": 0.025,
+            "value": null
+          },
+          {
+            "frame": 0.05,
+            "value": null
+          },
+          {
+            "frame": 0.075,
+            "value": null
+          },
+          {
+            "frame": 0.1,
+            "value": null
+          },
+          {
+            "frame": 0.125,
+            "value": null
+          },
+          {
+            "frame": 0.15,
+            "value": null
+          },
+          {
+            "frame": 0.175,
+            "value": null
+          },
+          {
+            "frame": 0.2,
+            "value": null
+          },
+          {
+            "frame": 0.225,
+            "value": null
+          },
+          {
+            "frame": 0.25,
+            "value": null
+          },
+          {
+            "frame": 0.275,
+            "value": null
+          },
+          {
+            "frame": 0.3,
+            "value": null
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ad_item",
+    "texture": "120a6559e",
+    "rect": [
+      2,
+      536,
+      323,
+      503
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      323,
+      503
+    ],
+    "rotated": 1
+  }
+}

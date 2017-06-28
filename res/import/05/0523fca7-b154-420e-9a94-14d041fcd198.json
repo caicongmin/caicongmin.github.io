@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_particel",
+    "texture": "9218f425-c7aa-43ce-8877-6797c7d4e9c4",
+    "rect": [
+      1,
+      1,
+      29,
+      29
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dl_dljm",
+    "texture": "b89eb987-c7a9-4c55-bca1-3bda06c16b70",
+    "rect": [
+      3,
+      2,
+      1016,
+      1020
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ]
+  }
+}

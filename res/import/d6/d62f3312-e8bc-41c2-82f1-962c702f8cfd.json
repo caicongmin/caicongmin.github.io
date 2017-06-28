@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zd_sqsz_cb",
+    "texture": "e4d4757c-96aa-496d-98af-d3cc004acbf9",
+    "rect": [
+      3,
+      2,
+      489,
+      599
+    ],
+    "offset": [
+      -8.5,
+      210.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddz_jqr_animation_tex",
+    "texture": "7fdee339-1b0a-41ad-bed0-467f97aa2c56",
+    "rect": [
+      1,
+      1,
+      99,
+      60
+    ],
+    "offset": [
+      -13.5,
+      1
+    ],
+    "originalSize": [
+      128,
+      64
+    ]
+  }
+}

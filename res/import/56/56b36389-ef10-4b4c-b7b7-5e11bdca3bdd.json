@@ -1,0 +1,111 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "loadprogress",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "loadprogress",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "e9f41a2b-4df3-4beb-94a8-9a7bb23e382f"
+        },
+        "_type": 1,
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.ProgressBar",
+        "node": {
+          "__id__": 1
+        },
+        "_N$totalLength": 630,
+        "_N$barSprite": {
+          "__id__": 3
+        },
+        "_N$progress": 0.2
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 1
+        },
+        "_alignFlags": 20,
+        "_top": 191,
+        "_bottom": -227
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "3abeaxodStFlrlLdCR+3vd1"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 637,
+      "height": 36
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "y": -209
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bar",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "44b9cUGdcRA6bE0+z1YMRzN"
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 126,
+      "height": 28
+    },
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -314.7
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "node": {
+      "__id__": 2
+    },
+    "_spriteFrame": {
+      "__uuid__": "3af9550f-19a9-4e7f-a2c6-dc12ec0cf57a"
+    },
+    "_type": 1,
+    "_sizeMode": 0
+  }
+]
